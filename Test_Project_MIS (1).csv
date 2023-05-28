@@ -1,0 +1,1315 @@
+﻿B_Req,R_Priority,Weights,FP,Complexity,Time,Cost,Priority
+1,C,3,"T-mis-2708,T-mis- 2151,T-mis- 560,T-mis- 164,T-mis-3122,T-mis- 1279,T-mis- 772",3,8,168,Medium
+2,C,3,T-mis-1755,3,4,84,High
+3,W,3,T-mis-3227,3,1.5,31.5,Medium
+4,S,2,"T-mis-2440,T-mis- 2659,T-mis- 1510",1,4,28,Medium
+5,C,3,"T-mis-2912,T-mis- 2042,T-mis- 1020",5,4,140,Medium
+6,S,2,T-mis-1533,3,4,84,Medium
+7,S,2,"T-mis-2840,T-mis- 2865,T-mis- 2964,T-mis- 335",1,4.5,31.5,Medium
+8,C,3,"T-mis-2441,T-mis- 1134",3,2.5,52.5,Medium
+9,M,1,"T-mis-710,T-mis- 385,T-mis- 444",3,4,84,Medium
+10,S,2,"T-mis-547,T-mis- 3085,T-mis- 534",5,2.5,87.5,Medium
+11,S,2,"T-mis-1692,T-mis- 2270,T-mis- 466",5,4,140,Medium
+12,C,3,"T-mis-831,T-mis- 198,T-mis- 2526",3,4,84,Medium
+13,C,3,"T-mis-502,T-mis- 3114",5,3,105,Medium
+14,S,2,T-mis-2279,3,1.5,31.5,Medium
+15,S,2,T-mis-49,3,1,21,Medium
+16,W,3,"T-mis-1132,T-mis- 975,T-mis- 2211",1,4.5,31.5,Medium
+17,M,1,"T-mis-991,T-mis- 1904,T-mis- 1544",1,4.5,31.5,Medium
+18,S,2,"T-mis-3034,T-mis- 2669",5,4.5,157.5,Medium
+19,W,3,"T-mis-1629,T-mis- 1034,T-mis- 1942,T-mis- 2436",1,25,175,Medium
+20,W,3,"T-mis-2744,T-mis- 1986,T-mis- 1720,T-mis- 2293",5,5,175,High
+21,M,1,"T-mis-862,T-mis- 1972",5,3,105,Medium
+22,M,1,"T-mis-165,T-mis- 3346",5,3,105,Medium
+23,S,2,"T-mis-1604,T-mis- 3167,T-mis- 3250,T-mis- 1337",1,5,35,Medium
+24,S,2,"T-mis-2614,T-mis- 1923,T-mis- 193",3,4,84,High
+25,S,2,"T-mis-2591,T-mis- 137",5,2.5,87.5,Medium
+26,C,3,T-mis-1545,1,2.5,17.5,Medium
+27,S,2,"T-mis-2674,T-mis- 722,T-mis- 2367",1,2.5,17.5,Medium
+28,S,2,T-mis-2678,5,4,140,Medium
+29,M,1,"T-mis-1792,T-mis- 1570",3,4,84,Medium
+30,C,3,"T-mis-663,T-mis- 3006,T-mis- 738",1,2.5,17.5,High
+31,S,2,"T-mis-19,T-mis- 1620,T-mis- 2210,T-mis- 1080",1,4,28,Medium
+32,C,3,T-mis-2247,5,2,70,Medium
+33,M,1,"T-mis-1705,T-mis- 276,T-mis- 778",3,5,105,Medium
+34,M,1,"T-mis-135,T-mis- 841,T-mis- 3029",1,4,28,Medium
+35,M,1,T-mis-2069,3,1.5,31.5,Medium
+36,M,1,"T-mis-510,T-mis- 1614,T-mis- 3355,T-mis- 3321",5,4.5,157.5,Medium
+37,C,3,"T-mis-2443,T-mis- 1812",5,2.5,87.5,Medium
+38,S,2,"T-mis-3316,T-mis- 3366",1,5,35,High
+39,S,2,T-mis-3036,5,1,35,Medium
+40,S,2,T-mis-1747,5,1,35,Medium
+41,S,2,"T-mis-766,T-mis- 1321,T-mis- 874",3,4,84,Medium
+42,C,3,"T-mis-1549,T-mis- 688,T-mis- 2893",5,2.5,87.5,High
+43,M,1,"T-mis-2604,T-mis- 2373,T-mis- 3061",1,4,28,Medium
+44,C,3,"T-mis-1595,T-mis- 3130,T-mis- 36,T-mis- 2059",3,4,84,Medium
+45,C,3,"T-mis-309,T-mis- 2153,T-mis- 322",5,4,140,Medium
+46,S,2,"T-mis-877,T-mis- 1862,T-mis- 2878,T-mis- 1784",5,5,175,Medium
+47,S,2,"T-mis-1169,T-mis- 2616,T-mis- 669",3,4,84,Medium
+48,M,1,"T-mis-864,T-mis- 2174,T-mis- 139,T-mis- 51",3,5,105,High
+49,W,3,"T-mis-810,T-mis- 3335,T-mis- 2833,T-mis- 2580",3,5,105,Medium
+50,W,3,"T-mis-3071,T-mis- 2019,T-mis- 1834,T-mis- 1774",5,4,140,Medium
+51,M,1,T-mis-304,1,1,7,Medium
+52,S,2,"T-mis-2198,T-mis- 3254,T-mis- 1914,T-mis- 1760",5,5,175,Medium
+53,M,1,T-mis-3210,1,1.5,10.5,Medium
+54,M,1,"T-mis-1501,T-mis- 729",5,4,140,High
+55,S,2,T-mis-1084,3,1,21,Medium
+56,S,2,"T-mis-1063,T-mis- 2959,T-mis- 1641",3,4,84,High
+57,W,3,"T-mis-1813,T-mis- 1649",1,4,28,Medium
+58,M,1,"T-mis-2906,T-mis- 159,T-mis- 2795",1,4,28,Medium
+59,S,2,"T-mis-54,T-mis- 384,T-mis- 2535",3,5,105,Medium
+60,M,1,"T-mis-1925,T-mis- 2830",5,5,175,High
+61,M,1,"T-mis-3150,T-mis- 234",1,4,28,Medium
+62,W,3,T-mis-3362,1,2.5,17.5,High
+63,W,3,"T-mis-2423,T-mis- 2790,T-mis- 10",5,5,175,Medium
+64,S,2,"T-mis-1720,T-mis- 399,T-mis- 760",5,4,140,Medium
+65,M,1,"T-mis-2355,T-mis- 1458,T-mis- 2286",3,5,105,Medium
+66,M,1,"T-mis-2017,T-mis- 2860",5,4,140,Medium
+67,M,1,"T-mis-661,T-mis- 2855,T-mis- 695",3,4,84,Medium
+68,S,2,"T-mis-502,T-mis- 2052,T-mis- 2858,T-mis- 1250",5,4,140,High
+69,M,1,"T-mis-2047,T-mis- 1065,T-mis- 423",5,2.5,87.5,Medium
+70,W,3,T-mis-580,3,2.5,52.5,Medium
+71,M,1,"T-mis-1682,T-mis- 1010",1,2,14,Medium
+72,W,3,"T-mis-1545,T-mis- 983",5,2,70,High
+73,M,1,"T-mis-1551,T-mis- 2928,T-mis- 2822,T-mis- 363",1,4,28,Medium
+74,W,3,"T-mis-1025,T-mis- 2546",3,2,42,High
+75,W,3,"T-mis-1181,T-mis- 2271,T-mis- 897,T-mis- 3171",5,2.5,87.5,Medium
+76,W,3,T-mis-958,1,2.5,17.5,Medium
+77,S,2,"T-mis-241,T-mis- 1418,T-mis- 242",1,5,35,Medium
+78,M,1,"T-mis-3300,T-mis- 2639,T-mis- 1025,T-mis- 1103",5,4,140,Medium
+79,M,1,"T-mis-3049,T-mis- 2950",1,4,28,Medium
+80,M,1,"T-mis-2179,T-mis- 928",1,2.5,17.5,High
+81,S,2,"T-mis-2703,T-mis- 1440,T-mis- 2568,T-mis- 2757",5,4,140,Medium
+82,W,3,"T-mis-3400,T-mis- 36,T-mis- 907",5,2.5,87.5,Medium
+83,W,3,"T-mis-2662,T-mis- 2756,T-mis- 3349,T-mis- 1457",1,2.5,17.5,Medium
+84,S,2,T-mis-1973,1,1,7,High
+85,M,1,"T-mis-697,T-mis- 198",5,2.5,87.5,Medium
+86,S,2,"T-mis-2148,T-mis- 1232",3,2,42,Medium
+87,S,2,"T-mis-1472,T-mis- 1268,T-mis- 1911",5,2.5,87.5,Medium
+88,S,2,T-mis-560,5,2.5,87.5,Medium
+89,M,1,"T-mis-1194,T-mis- 879,T-mis- 1472,T-mis- 1206",3,4,84,Medium
+90,W,3,"T-mis-2137,T-mis- 1999",3,2,42,Low
+91,S,2,"T-mis-520,T-mis- 1999,T-mis- 2004",1,4,28,Medium
+92,S,2,"T-mis-1307,T-mis- 1010,T-mis- 725",5,2.5,87.5,Medium
+93,S,2,T-mis-763,3,1.5,31.5,Medium
+94,M,1,T-mis-1413,3,1,21,Medium
+95,M,1,"T-mis-587,T-mis- 1210,T-mis- 389,T-mis- 2189",3,2.5,52.5,Medium
+96,S,2,"T-mis-1458,T-mis- 2263",1,5,35,Low
+97,S,2,T-mis-2271,1,2,14,Medium
+98,M,1,"T-mis-1581,T-mis- 1550,T-mis- 399,T-mis- 2726",1,5,35,Medium
+99,S,2,"T-mis-345,T-mis- 2185",1,5,35,Medium
+100,M,1,"T-mis-2213,T-mis- 664,T-mis- 675,T-mis- 2987",1,4,28,Medium
+101,C,3,"T-mis-713,T-mis- 416,T-mis- 2852,T-mis- 1407",1,2.5,17.5,Medium
+102,S,2,"T-mis-2923,T-mis- 2441,T-mis- 2090,T-mis- 3375",1,2.5,17.5,High
+103,C,3,"T-mis-1253,T-mis- 2245,T-mis- 2703,T-mis- 1496",5,4,140,Medium
+104,M,1,"T-mis-149,T-mis- 1302,T-mis- 880",5,5,175,High
+105,M,1,T-mis-1928,5,1,35,Medium
+106,C,3,T-mis-2435,5,1,35,Medium
+107,C,3,"T-mis-1296,T-mis- 1794",1,1.5,10.5,Medium
+108,C,3,T-mis-2520,5,1,35,High
+109,S,2,"T-mis-844,T-mis- 1477,T-mis- 2715,T-mis- 665",5,4,140,Medium
+110,C,3,T-mis-1317,3,1,21,Medium
+111,M,1,"T-mis-2916,T-mis- 1487,T-mis- 3343,T-mis- 2308",5,4,140,Medium
+112,C,3,"T-mis-918,T-mis- 373,T-mis- 2502,T-mis- 526",5,5,175,Medium
+113,M,1,T-mis-2611,5,2.5,87.5,Medium
+114,S,2,"T-mis-2524,T-mis- 882",1,4,28,Low
+115,M,1,T-mis-1452,1,1.5,10.5,Medium
+116,S,2,T-mis-533,1,1,7,High
+117,S,2,"T-mis-482,T-mis- 2034,T-mis- 3059,T-mis- 1052",1,4,28,Medium
+118,M,1,"T-mis-1599,T-mis- 589",1,4,28,Medium
+119,M,1,T-mis-2367,5,1,35,Medium
+120,C,3,"T-mis-352,T-mis- 3341,T-mis- 980,T-mis- 139",5,4,140,Medium
+121,S,2,"T-mis-1381,T-mis- 510,T-mis- 1733",5,4,140,Medium
+122,M,1,T-mis-1297,1,1,7,High
+123,M,1,"T-mis-1560,T-mis- 2981,T-mis- 2508,T-mis- 3368",5,5,175,Medium
+124,S,2,"T-mis-2960,T-mis- 2114,T-mis- 2362",5,4,140,Medium
+125,C,3,"T-mis-1331,T-mis- 3263",1,2.5,17.5,Medium
+126,C,3,"T-mis-1389,T-mis- 1329",5,2,70,Medium
+127,C,3,"T-mis-315,T-mis- 2434,T-mis- 2051,T-mis- 3286",1,4,28,Medium
+128,S,2,"T-mis-1376,T-mis- 963",1,2,14,High
+129,S,2,"T-mis-2529,T-mis- 3147,T-mis- 1941",1,4,28,Medium
+130,M,1,T-mis-768,1,1.5,10.5,Medium
+131,S,2,"T-mis-2359,T-mis- 2756",5,5,175,Medium
+132,C,3,T-mis-459,1,1,7,Medium
+133,M,1,"T-mis-1890,T-mis- 131,T-mis- 1",5,2,70,Medium
+134,W,3,"T-mis-1488,T-mis- 1964,T-mis- 2596,T-mis- 2413",1,4.5,31.5,Medium
+135,W,3,"T-mis-619,T-mis- 2320",5,2,70,Medium
+136,S,2,"T-mis-2148,T-mis- 1876,T-mis- 148,T-mis- 2485",5,2.5,87.5,Medium
+137,M,1,"T-mis-371,T-mis- 1448,T-mis- 959,T-mis- 1394",1,5,35,Medium
+138,W,3,"T-mis-475,T-mis- 1548,T-mis- 1754,T-mis- 1840",1,5,35,High
+139,S,2,"T-mis-1869,T-mis- 3224,T-mis- 2932",5,4,140,Medium
+140,M,1,"T-mis-937,T-mis- 1755,T-mis- 444,T-mis- 765",3,4,84,High
+141,W,3,"T-mis-3158,T-mis- 3319,T-mis- 1430,T-mis- 1530",5,4,140,Medium
+142,W,3,"T-mis-1907,T-mis- 1138,T-mis- 3198",3,2.5,52.5,Medium
+143,W,3,"T-mis-1378,T-mis- 11,T-mis- 2709,T-mis- 3101",3,4,84,Medium
+144,C,3,T-mis-518,5,1,35,High
+145,S,2,"T-mis-3296,T-mis- 3248,T-mis- 2750",5,5,175,Medium
+146,C,3,"T-mis-3360,T-mis- 3337,T-mis- 2919",1,2.5,17.5,Medium
+147,C,3,"T-mis-743,T-mis- 110,T-mis- 3020,T-mis- 872",5,4,140,Medium
+148,C,3,"T-mis-3369,T-mis- 947,T-mis- 97",1,4,28,Medium
+149,S,2,T-mis-1253,1,2,14,Medium
+150,C,3,"T-mis-2599,T-mis- 3222,T-mis- 2491,T-mis- 1414",5,2.5,87.5,Low
+151,S,2,T-mis-1853,3,1,21,Medium
+152,C,3,T-mis-3257,1,2,14,High
+153,S,2,"T-mis-2985,T-mis- 1345,T-mis- 1717",1,2.5,17.5,Medium
+154,M,1,"T-mis-1783,T-mis- 1368,T-mis- 1062",3,4,84,Medium
+155,M,1,"T-mis-1964,T-mis- 3261,T-mis- 667,T-mis- 523",3,5,105,Medium
+156,M,1,"T-mis-444,T-mis- 1581",5,1.5,52.5,Medium
+157,S,2,"T-mis-2423,T-mis- 119,T-mis- 2784",5,4,140,Medium
+158,S,2,"T-mis-509,T-mis- 1507",5,3,105,Low
+159,C,3,"T-mis-2879,T-mis- 2382,T-mis- 3095,T-mis- 242",3,4,84,Medium
+160,S,2,"T-mis-1,T-mis- 882",5,2,70,Medium
+161,S,2,"T-mis-2133,T-mis- 2320,T-mis- 2979,T-mis- 2147",1,2.5,17.5,Medium
+162,S,2,"T-mis-3028,T-mis- 1862",5,2,70,Medium
+163,W,3,"T-mis-3119,T-mis- 215,T-mis- 2380,T-mis- 532",3,5,105,Medium
+164,W,3,T-mis-927,5,1,35,High
+165,M,1,"T-mis-167,T-mis- 3007",3,4,84,Medium
+166,S,2,T-mis-227,5,1,35,Medium
+167,S,2,"T-mis-2177,T-mis- 157,T-mis- 2235",1,5,35,Medium
+168,W,3,"T-mis-3294,T-mis- 2694,T-mis- 2250",3,4,84,High
+169,S,2,"T-mis-2663,T-mis- 1729",3,4,84,Medium
+170,S,2,"T-mis-1035,T-mis- 3025,T-mis- 3400,T-mis- 2649",5,5,175,High
+171,S,2,"T-mis-3181,T-mis- 3396,T-mis- 1557,T-mis- 845",3,2.5,52.5,Medium
+172,S,2,"T-mis-1364,T-mis- 2062,T-mis- 2710",1,4,28,Medium
+173,S,2,"T-mis-1989,T-mis- 3380",1,2,14,Medium
+174,S,2,"T-mis-3052,T-mis- 291,T-mis- 2605,T-mis- 2079",5,5,175,Low
+175,M,1,"T-mis-2997,T-mis- 2490,T-mis- 2517,T-mis- 1384",5,5,175,Medium
+176,M,1,"T-mis-850,T-mis- 2135,T-mis- 964",3,4,84,Medium
+177,W,3,"T-mis-2015,T-mis- 2569",3,2.5,52.5,Medium
+178,W,3,"T-mis-2596,T-mis- 588",5,2,70,Medium
+179,W,3,"T-mis-2923,T-mis- 1272,T-mis- 1071,T-mis- 2593",1,5,35,Medium
+180,S,2,"T-mis-245,T-mis- 807",3,4,84,Medium
+181,W,3,T-mis-469,5,1,35,Medium
+182,S,2,"T-mis-2942,T-mis- 1860",1,1.5,10.5,High
+183,S,2,"T-mis-3374,T-mis- 471",5,2.5,87.5,Medium
+184,W,3,"T-mis-2854,T-mis- 2383",1,2.5,17.5,Medium
+185,M,1,"T-mis-47,T-mis- 2855",5,2.5,87.5,Medium
+186,S,2,T-mis-997,3,2,42,Medium
+187,C,3,"T-mis-1622,T-mis- 1838",5,2,70,Medium
+188,C,3,"T-mis-1164,T-mis- 3370,T-mis- 1735",5,3,105,High
+189,C,3,"T-mis-188,T-mis- 1909,T-mis- 494,T-mis- 2921",3,4,84,Medium
+190,M,1,"T-mis-663,T-mis- 638,T-mis- 627,T-mis- 3392",1,2.5,17.5,Medium
+191,C,3,"T-mis-1038,T-mis- 3206,T-mis- 457",3,5,105,Medium
+192,C,3,T-mis-2556,3,1,21,High
+193,C,3,T-mis-2543,3,1,21,Medium
+194,S,2,"T-mis-1170,T-mis- 2012,T-mis- 1063",5,2.5,87.5,High
+195,M,1,"T-mis-3316,T-mis- 579,T-mis- 1355",3,5,105,Medium
+196,C,3,T-mis-219,3,1.5,31.5,Medium
+197,M,1,"T-mis-3265,T-mis- 3083,T-mis- 3239",3,4,84,Medium
+198,C,3,"T-mis-525,T-mis- 173",3,3,63,Medium
+199,C,3,T-mis-1815,1,1.5,10.5,Medium
+200,M,1,"T-mis-511,T-mis- 1349,T-mis- 1657,T-mis- 1689",3,4,84,Low
+201,C,3,"T-mis-1027,T-mis- 2875,T-mis- 1363",3,4,84,Medium
+202,M,1,"T-mis-2542,T-mis- 1721",1,2,14,Medium
+203,C,3,"T-mis-1704,T-mis- 2993",5,2.5,87.5,Medium
+204,M,1,"T-mis-1078,T-mis- 1551",1,2.5,17.5,Medium
+205,M,1,T-mis-200,1,2.5,17.5,Medium
+206,S,2,"T-mis-3099,T-mis- 632,T-mis- 1058",5,4,140,Medium
+207,M,1,"T-mis-2580,T-mis- 228,T-mis- 1223",1,4,28,Medium
+208,S,2,"T-mis-2312,T-mis- 778,T-mis- 2237",1,5,35,Medium
+209,M,1,"T-mis-2820,T-mis- 3398,T-mis- 699",1,4,28,Medium
+210,M,1,"T-mis-434,T-mis- 987",1,5,35,Medium
+211,W,3,"T-mis-137,T-mis- 3362,T-mis- 3039,T-mis- 2047",5,5,175,Medium
+212,M,1,"T-mis-1167,T-mis- 491,T-mis- 2953",1,2.5,17.5,High
+213,W,3,"T-mis-344,T-mis- 553,T-mis- 3032",1,4,28,Medium
+214,M,1,T-mis-1127,1,1.5,10.5,Medium
+215,S,2,T-mis-2749,5,1.5,52.5,Medium
+216,S,2,"T-mis-658,T-mis- 721,T-mis- 481",3,2.5,52.5,High
+217,M,1,"T-mis-656,T-mis- 1070",3,4,84,Medium
+218,S,2,T-mis-1456,3,1,21,Medium
+219,S,2,"T-mis-454,T-mis- 2300",5,4,140,Medium
+220,W,3,T-mis-3102,3,2.5,52.5,Medium
+221,M,1,T-mis-3300,5,1,35,Medium
+222,S,2,T-mis-1504,5,1.5,52.5,High
+223,W,3,"T-mis-785,T-mis- 2959,T-mis- 1031,T-mis- 2775",3,4,84,Medium
+224,S,2,"T-mis-402,T-mis- 48",5,5,175,High
+225,W,3,"T-mis-2912,T-mis- 1345,T-mis- 170",1,4,28,Medium
+226,S,2,T-mis-1781,5,1,35,Medium
+227,C,3,"T-mis-1173,T-mis- 48",3,2.5,52.5,Medium
+228,C,3,"T-mis-2890,T-mis- 2077",1,2.5,17.5,High
+229,S,2,T-mis-1397,5,1.5,52.5,Medium
+230,M,1,"T-mis-522,T-mis- 2173",5,5,175,High
+231,S,2,"T-mis-3016,T-mis- 1420",3,4,84,Medium
+232,C,3,"T-mis-2090,T-mis- 317",3,4,84,Medium
+233,M,1,T-mis-3344,1,1,7,Medium
+234,C,3,T-mis-1242,1,1,7,High
+235,S,2,T-mis-1801,1,2.5,17.5,Medium
+236,M,1,"T-mis-1711,T-mis- 1346,T-mis- 885,T-mis- 2325",5,6,210,High
+237,S,2,T-mis-187,5,1,35,Medium
+238,S,2,"T-mis-1851,T-mis- 2668,T-mis- 3011",5,2.5,87.5,Medium
+239,M,1,"T-mis-1743,T-mis- 321,T-mis- 1733,T-mis- 1344",1,4,28,Medium
+240,M,1,"T-mis-251,T-mis- 771,T-mis- 300,T-mis- 1832",3,2.5,52.5,Low
+241,M,1,"T-mis-2498,T-mis- 3230,T-mis- 96",3,4,84,Medium
+242,M,1,"T-mis-427,T-mis- 1634,T-mis- 1727",1,5,35,High
+243,M,1,"T-mis-1257,T-mis- 586,T-mis- 1717",1,3,21,Medium
+244,S,2,"T-mis-890,T-mis- 218,T-mis- 372",5,4,140,Medium
+245,M,1,"T-mis-1604,T-mis- 557",3,4,84,Medium
+246,C,3,"T-mis-3210,T-mis- 2431,T-mis- 2567",3,5,105,Medium
+247,M,1,T-mis-1776,3,1.5,31.5,Medium
+248,S,2,"T-mis-239,T-mis- 1098,T-mis- 3090,T-mis- 2300",3,4,84,High
+249,W,3,"T-mis-2487,T-mis- 586,T-mis- 3353",5,2.5,87.5,Medium
+250,W,3,"T-mis-1527,T-mis- 2224,T-mis- 2384",1,4,28,Medium
+251,S,2,"T-mis-3193,T-mis- 2923,T-mis- 1397,T-mis- 140",5,4.5,157.5,Medium
+252,W,3,"T-mis-519,T-mis- 117",5,2.5,87.5,High
+253,M,1,T-mis-1816,3,1,21,Medium
+254,M,1,"T-mis-720,T-mis- 3344",5,2.5,87.5,Medium
+255,W,3,"T-mis-1613,T-mis- 1385",5,4,140,Medium
+256,S,2,"T-mis-3129,T-mis- 2465,T-mis- 467,T-mis- 2447",5,4,140,Medium
+257,M,1,T-mis-715,5,1,35,Medium
+258,S,2,"T-mis-2965,T-mis- 192",5,2,70,High
+259,S,2,"T-mis-14,T-mis- 2779",1,2.5,17.5,Medium
+260,S,2,"T-mis-1629,T-mis- 712,T-mis- 56",5,3,105,Medium
+261,M,1,"T-mis-2146,T-mis- 2012,T-mis- 3266,T-mis- 781",1,4,28,Medium
+262,S,2,"T-mis-1474,T-mis- 1726,T-mis- 242",1,4,28,Medium
+263,C,3,"T-mis-983,T-mis- 1913,T-mis- 1995,T-mis- 2385",5,5,175,Medium
+264,M,1,T-mis-374,5,1.5,52.5,High
+265,C,3,"T-mis-912,T-mis- 3313",3,3,63,Medium
+266,M,1,"T-mis-742,T-mis- 2228",1,2,14,Medium
+267,M,1,"T-mis-2198,T-mis- 3169,T-mis- 352,T-mis- 1851",5,4,140,Medium
+268,W,3,"T-mis-3288,T-mis- 562,T-mis- 2288",3,4,84,Medium
+269,W,3,"T-mis-1413,T-mis- 2329",5,2.5,87.5,Medium
+270,M,1,"T-mis-1709,T-mis- 296,T-mis- 1698",3,4,84,Low
+271,C,3,"T-mis-3208,T-mis- 1467",5,2.5,87.5,Medium
+272,S,2,T-mis-2148,3,4,84,High
+273,M,1,"T-mis-2878,T-mis- 3376",5,2.5,87.5,Medium
+274,C,3,"T-mis-1760,T-mis- 2780,T-mis- 2615,T-mis- 3360",5,5,175,Medium
+275,C,3,"T-mis-456,T-mis- 394",5,4,140,Medium
+276,M,1,T-mis-1436,1,2.5,17.5,Low
+277,S,2,"T-mis-1711,T-mis- 2634,T-mis- 476",5,2.5,87.5,Medium
+278,W,3,"T-mis-29,T-mis- 2603",1,4,28,Medium
+279,M,1,"T-mis-1705,T-mis- 3328,T-mis- 3185",3,2.5,52.5,Medium
+280,M,1,"T-mis-845,T-mis- 914,T-mis- 3266",5,4,140,Medium
+281,C,3,T-mis-843,5,2.5,87.5,Medium
+282,M,1,"T-mis-2778,T-mis- 1575",5,4,140,Medium
+283,S,2,"T-mis-2589,T-mis- 2996,T-mis- 2748",1,4,28,Medium
+284,W,3,T-mis-1453,5,1.5,52.5,High
+285,W,2,"T-mis-659,T-mis- 1616,T-mis- 202,T-mis- 747",5,5.5,192.5,Medium
+286,S,2,"T-mis-2456,T-mis- 706,T-mis- 976,T-mis- 612",5,4.5,157.5,Medium
+287,C,3,"T-mis-1576,T-mis- 148,T-mis- 320",5,4,140,Medium
+288,S,2,"T-mis-2605,T-mis- 1014,T-mis- 175",3,3,63,Medium
+289,W,3,"T-mis-2193,T-mis- 1741,T-mis- 2924,T-mis- 899",3,4.5,94.5,Medium
+290,M,1,"T-mis-2986,T-mis- 575,T-mis- 1826,T-mis- 224",5,5,175,High
+291,W,3,"T-mis-3185,T-mis- 3156,T-mis- 1916,T-mis- 343",3,6,126,Medium
+292,S,2,"T-mis-1490,T-mis- 500,T-mis- 2140",1,5,35,Medium
+293,W,3,T-mis-3281,3,4,84,Medium
+294,M,1,"T-mis-2388,T-mis- 572",1,4,28,High
+295,S,2,"T-mis-1079,T-mis- 186",5,4,140,Medium
+296,S,2,"T-mis-291,T-mis- 1212,T-mis- 2752",3,5,105,Low
+297,W,3,"T-mis-2544,T-mis- 304,T-mis- 2048,T-mis- 2669",5,5,175,Medium
+298,M,1,T-mis-1064,5,2.5,87.5,Medium
+299,W,3,T-mis-1763,3,2.5,52.5,Medium
+300,S,2,"T-mis-851,T-mis- 1132,T-mis- 3089",5,2.5,87.5,High
+301,W,3,"T-mis-1032,T-mis- 179",5,4,140,Medium
+302,W,3,"T-mis-485,T-mis- 598",5,4,140,Medium
+303,W,3,"T-mis-1664,T-mis- 2589,T-mis- 1240",1,5,35,Medium
+304,W,3,"T-mis-2082,T-mis- 1153,T-mis- 1312",1,4,28,Medium
+305,M,1,T-mis-2051,3,1.5,31.5,Medium
+306,M,1,"T-mis-2478,T-mis- 1709,T-mis- 2524",1,4,28,Medium
+307,M,1,"T-mis-3074,T-mis- 2741",5,3.5,122.5,Medium
+308,W,3,"T-mis-2712,T-mis- 1328,T-mis- 1282",1,4,28,High
+309,S,2,"T-mis-983,T-mis- 755,T-mis- 532,T-mis- 1674",3,4,84,Medium
+310,W,3,"T-mis-343,T-mis- 1651,T-mis- 2645",1,4,28,Medium
+311,S,2,T-mis-1077,1,1.5,10.5,Medium
+312,W,3,T-mis-2263,1,2.5,17.5,High
+313,S,2,T-mis-2095,1,4,28,Medium
+314,M,1,"T-mis-1724,T-mis- 1305,T-mis- 2500,T-mis- 2862",3,2.5,52.5,High
+315,S,2,"T-mis-2271,T-mis- 3305,T-mis- 2717",1,4,28,Medium
+316,M,1,"T-mis-3302,T-mis- 2910",3,2.5,52.5,Medium
+317,S,2,"T-mis-118,T-mis- 1925,T-mis- 3136,T-mis- 583",3,4,84,Medium
+318,S,2,T-mis-673,3,2.5,52.5,High
+319,S,2,"T-mis-1500,T-mis- 1119,T-mis- 492",5,5,175,Medium
+320,C,3,"T-mis-2796,T-mis- 843",5,4,140,High
+321,M,1,"T-mis-2174,T-mis- 1737,T-mis- 1288,T-mis- 2457",5,2.5,87.5,Medium
+322,S,2,"T-mis-705,T-mis- 2380,T-mis- 2592",3,2.5,52.5,Medium
+323,C,3,"T-mis-1216,T-mis- 602,T-mis- 1903",3,4,84,Medium
+324,C,3,"T-mis-1992,T-mis- 1642",5,1.5,52.5,High
+325,C,3,"T-mis-1585,T-mis- 2967,T-mis- 1203,T-mis- 2479",3,2.5,52.5,Medium
+326,M,1,"T-mis-717,T-mis- 2341",3,4,84,Medium
+327,S,2,"T-mis-1636,T-mis- 508,T-mis- 3235",1,4,28,Medium
+328,M,1,"T-mis-3062,T-mis- 2982,T-mis- 234,T-mis- 2739",1,4,28,Medium
+329,C,3,"T-mis-997,T-mis- 3227,T-mis- 1293",1,1.5,10.5,Medium
+330,C,3,"T-mis-3256,T-mis- 460,T-mis- 797,T-mis- 1433",1,2.5,17.5,Medium
+331,S,2,T-mis-1687,1,1,7,Medium
+332,S,2,T-mis-872,1,1,7,High
+333,M,1,T-mis-8,5,2.5,87.5,Medium
+334,S,2,"T-mis-1907,T-mis- 3208,T-mis- 1135,T-mis- 937",5,4,140,Medium
+335,S,2,"T-mis-608,T-mis- 2021,T-mis- 2614",1,5,35,Medium
+336,S,2,"T-mis-1098,T-mis- 947,T-mis- 682,T-mis- 242",3,4,84,High
+337,M,1,"T-mis-2437,T-mis- 1596",3,2.5,52.5,Medium
+338,M,1,"T-mis-964,T-mis- 944",5,1.5,52.5,High
+339,C,3,"T-mis-3326,T-mis- 1161,T-mis- 1119",5,2.5,87.5,Medium
+340,C,3,"T-mis-2946,T-mis- 224",5,3,105,Medium
+341,M,1,"T-mis-1283,T-mis- 2358",5,2.5,87.5,Medium
+342,M,1,"T-mis-2408,T-mis- 1935",5,2.5,87.5,Medium
+343,M,1,"T-mis-1692,T-mis- 956,T-mis- 434,T-mis- 1795",3,5,105,Medium
+344,M,1,T-mis-2618,3,2.5,52.5,Medium
+345,W,3,"T-mis-324,T-mis- 2230",5,1.5,52.5,Medium
+346,W,3,"T-mis-2972,T-mis- 3085,T-mis- 2611,T-mis- 2575",5,4,140,Medium
+347,S,2,"T-mis-2459,T-mis- 1947",3,2,42,Medium
+348,S,2,"T-mis-121,T-mis- 1290,T-mis- 1519,T-mis- 3382",5,4,140,High
+349,W,3,T-mis-2666,1,1,7,Medium
+350,W,3,"T-mis-1222,T-mis- 873,T-mis- 779",1,1.5,10.5,High
+351,M,1,"T-mis-1802,T-mis- 2890,T-mis- 2593",5,5,175,Medium
+352,S,2,"T-mis-833,T-mis- 301",1,2.5,17.5,Medium
+353,M,1,"T-mis-803,T-mis- 3102,T-mis- 2607,T-mis- 2581",5,4,140,Medium
+354,S,2,T-mis-589,3,4,84,High
+355,M,1,"T-mis-3397,T-mis- 1189",3,4,84,Medium
+356,S,2,"T-mis-2210,T-mis- 3032,T-mis- 1271",1,4,28,High
+357,S,2,"T-mis-2462,T-mis- 1462,T-mis- 638,T-mis- 779",5,4,140,Medium
+358,S,2,"T-mis-1130,T-mis- 2598",3,2.5,52.5,Medium
+359,S,2,"T-mis-2810,T-mis- 2012,T-mis- 1118,T-mis- 2135",3,4,84,Medium
+360,M,1,"T-mis-139,T-mis- 852",1,4,28,High
+361,W,3,"T-mis-1055,T-mis- 955,T-mis- 2504,T-mis- 164",3,5,105,Medium
+362,W,3,"T-mis-1232,T-mis- 23,T-mis- 3316,T-mis- 2033",1,4,28,High
+363,S,2,T-mis-630,1,1,7,Medium
+364,W,3,"T-mis-2635,T-mis- 2074,T-mis- 2118,T-mis- 1813",3,4,84,Medium
+365,S,2,"T-mis-2335,T-mis- 2495",5,2,70,Medium
+366,S,2,"T-mis-3385,T-mis- 95,T-mis- 2611,T-mis- 1239",5,5,175,Medium
+367,M,1,"T-mis-2440,T-mis- 448",1,2,14,Medium
+368,M,1,"T-mis-1403,T-mis- 126,T-mis- 2956",3,5,105,High
+369,W,3,"T-mis-3380,T-mis- 255,T-mis- 913",1,4,28,Medium
+370,S,2,T-mis-2744,5,2.5,87.5,Medium
+371,W,3,T-mis-2115,5,1,35,Medium
+372,M,1,T-mis-141,5,1,35,Medium
+373,M,1,"T-mis-1129,T-mis- 445,T-mis- 3285,T-mis- 2034",1,5,35,Medium
+374,W,3,"T-mis-2685,T-mis- 1040,T-mis- 319,T-mis- 3125",1,4,28,High
+375,S,2,T-mis-909,3,1,21,Medium
+376,W,3,"T-mis-886,T-mis- 880,T-mis- 2698",1,4,28,Medium
+377,M,1,"T-mis-467,T-mis- 27,T-mis- 2929",5,4,140,Medium
+378,M,1,T-mis-3121,3,2,42,High
+379,M,1,"T-mis-1994,T-mis- 2419,T-mis- 2076",1,2.5,17.5,Medium
+380,M,1,"T-mis-781,T-mis- 1511",3,2.5,52.5,High
+381,M,1,"T-mis-1299,T-mis- 1555,T-mis- 2113,T-mis- 3208",3,5,105,Medium
+382,M,1,"T-mis-446,T-mis- 1541",5,2,70,Medium
+383,M,1,"T-mis-836,T-mis- 643",1,2,14,Medium
+384,S,2,"T-mis-1162,T-mis- 2755,T-mis- 1152,T-mis- 2298",3,4,84,High
+385,S,2,"T-mis-2715,T-mis- 2510,T-mis- 3165,T-mis- 1398",1,4,28,Medium
+386,M,1,"T-mis-3258,T-mis- 3398",3,2,42,Medium
+387,S,2,"T-mis-2371,T-mis- 1866,T-mis- 276",1,5,35,Medium
+388,C,3,"T-mis-2182,T-mis- 1380",1,2,14,Medium
+389,C,3,T-mis-238,5,1,35,Medium
+390,M,1,T-mis-413,5,1.5,52.5,High
+391,S,2,"T-mis-2410,T-mis- 2735,T-mis- 1216,T-mis- 1573",3,4,84,Medium
+392,W,3,"T-mis-3233,T-mis- 894",5,4,140,High
+393,S,2,T-mis-744,3,1.5,31.5,Medium
+394,S,2,"T-mis-3046,T-mis- 156,T-mis- 2728,T-mis- 1783",3,5,105,Medium
+395,S,2,"T-mis-2478,T-mis- 509,T-mis- 3382,T-mis- 2108",5,2.5,87.5,Medium
+396,W,3,"T-mis-1435,T-mis- 293",3,2.5,52.5,High
+397,M,1,"T-mis-1938,T-mis- 1436",5,2.5,87.5,Medium
+398,M,1,T-mis-1886,3,4,84,High
+399,W,3,"T-mis-2186,T-mis- 2716,T-mis- 2326",1,2.5,17.5,Medium
+400,S,2,"T-mis-1789,T-mis- 1587,T-mis- 2744,T-mis- 2525",5,4,140,Medium
+401,S,2,"T-mis-1216,T-mis- 84",5,5,175,Medium
+402,M,1,T-mis-3052,5,4,140,High
+403,W,3,"T-mis-1445,T-mis- 227,T-mis- 864",5,2.5,87.5,Medium
+404,S,2,"T-mis-183,T-mis- 915",3,4,84,High
+405,S,2,T-mis-2453,3,1.5,31.5,Medium
+406,W,3,T-mis-1009,3,1,21,Medium
+407,W,3,"T-mis-1779,T-mis- 264",3,5,105,Medium
+408,W,3,T-mis-1854,1,1.5,10.5,High
+409,M,1,"T-mis-328,T-mis- 431,T-mis- 1650",3,4,84,Medium
+410,S,2,"T-mis-3385,T-mis- 135,T-mis- 2165,T-mis- 2908",3,4,84,High
+411,M,1,"T-mis-2840,T-mis- 2679,T-mis- 1085,T-mis- 1448",5,5,175,Medium
+412,S,2,"T-mis-2650,T-mis- 2339",3,2.5,52.5,Medium
+413,C,3,"T-mis-1437,T-mis- 1267",3,2.5,52.5,Medium
+414,S,2,"T-mis-2650,T-mis- 2726,T-mis- 1682,T-mis- 1375",5,4,140,Medium
+415,M,1,T-mis-2683,5,1.5,52.5,Medium
+416,C,3,"T-mis-2219,T-mis- 1553,T-mis- 1240,T-mis- 1275",5,2.5,87.5,High
+417,C,3,"T-mis-410,T-mis- 2345,T-mis- 2989",3,4,84,Medium
+418,C,3,"T-mis-2109,T-mis- 2487,T-mis- 1413",5,4,140,Medium
+419,S,2,T-mis-1794,5,1,35,Medium
+420,C,3,"T-mis-925,T-mis- 3166",3,4,84,Low
+421,M,1,"T-mis-1377,T-mis- 3089,T-mis- 3385",3,4,84,Medium
+422,M,1,T-mis-2201,1,2,14,High
+423,M,1,"T-mis-259,T-mis- 1283,T-mis- 3345,T-mis- 2977",3,4,84,Medium
+424,M,1,"T-mis-1572,T-mis- 3293",5,4,140,Medium
+425,M,1,"T-mis-2028,T-mis- 1362,T-mis- 1325",5,4,140,Medium
+426,C,3,"T-mis-2722,T-mis- 3004,T-mis- 1207,T-mis- 1773",5,4,140,Medium
+427,M,1,"T-mis-700,T-mis- 2586",3,2.5,52.5,Medium
+428,S,2,"T-mis-2268,T-mis- 3336",5,2.5,87.5,Medium
+429,C,3,"T-mis-1170,T-mis- 737,T-mis- 2826",3,4,84,Medium
+430,M,1,T-mis-1373,5,1.5,52.5,Medium
+431,C,3,"T-mis-1807,T-mis- 797,T-mis- 1914",5,2.5,87.5,Medium
+432,C,3,"T-mis-2860,T-mis- 968,T-mis- 3189,T-mis- 2080",3,5,105,Low
+433,C,3,"T-mis-1513,T-mis- 637,T-mis- 911,T-mis- 3029",3,4,84,Medium
+434,S,2,"T-mis-1781,T-mis- 15,T-mis- 1524",1,4,28,High
+435,S,2,T-mis-1512,1,1.5,10.5,Medium
+436,M,1,"T-mis-2511,T-mis- 1212,T-mis- 1233",1,4,28,Medium
+437,S,2,"T-mis-3063,T-mis- 1953",5,3,105,Medium
+438,M,1,T-mis-283,5,1.5,52.5,High
+439,W,3,"T-mis-303,T-mis- 662,T-mis- 1",5,2.5,87.5,Medium
+440,M,1,"T-mis-908,T-mis- 3255,T-mis- 965,T-mis- 2449",1,4.5,31.5,High
+441,S,2,"T-mis-489,T-mis- 3147,T-mis- 330",5,4,140,Medium
+442,M,1,"T-mis-1421,T-mis- 498",1,2.5,17.5,Medium
+443,S,2,T-mis-2726,5,1,35,Medium
+444,M,1,"T-mis-2803,T-mis- 1290",3,4,84,Medium
+445,S,2,"T-mis-2828,T-mis- 968,T-mis- 201,T-mis- 940",3,4,84,Medium
+446,W,3,"T-mis-1044,T-mis- 1151,T-mis- 1408",1,2.5,17.5,Medium
+447,S,2,"T-mis-1975,T-mis- 1182,T-mis- 2002",5,2.5,87.5,Medium
+448,S,2,"T-mis-1759,T-mis- 3266,T-mis- 2384,T-mis- 2027",1,5,35,Medium
+449,C,3,"T-mis-837,T-mis- 2810,T-mis- 1431,T-mis- 1411",3,4,84,Medium
+450,M,1,"T-mis-1609,T-mis- 263",5,5,175,High
+451,M,1,"T-mis-1960,T-mis- 717",5,5,175,Medium
+452,M,1,T-mis-946,1,1,7,High
+453,C,3,T-mis-59,3,1.5,31.5,Medium
+454,M,1,"T-mis-2441,T-mis- 3284,T-mis- 1931",1,5,35,Medium
+455,M,1,"T-mis-3031,T-mis- 3310,T-mis- 246",5,4,140,Medium
+456,C,3,T-mis-1058,1,1.5,10.5,Medium
+457,S,2,"T-mis-824,T-mis- 2569",1,2,14,Medium
+458,C,3,"T-mis-2928,T-mis- 1232",1,2,14,Medium
+459,C,3,T-mis-1565,1,1,7,Medium
+460,C,3,"T-mis-2969,T-mis- 632",5,5,175,Medium
+461,S,2,"T-mis-1094,T-mis- 592,T-mis- 1066,T-mis- 3056",3,2.5,52.5,Medium
+462,M,1,T-mis-1539,5,1,35,High
+463,S,2,T-mis-1494,5,1,35,Medium
+464,M,1,"T-mis-2387,T-mis- 695,T-mis- 193",5,4,140,High
+465,W,3,"T-mis-71,T-mis- 2819",1,2,14,Medium
+466,M,1,"T-mis-1421,T-mis- 1065,T-mis- 2737",1,2.5,17.5,Medium
+467,S,2,"T-mis-3176,T-mis- 2503",3,4,84,Medium
+468,W,3,"T-mis-2844,T-mis- 1397",1,4,28,High
+469,S,2,"T-mis-886,T-mis- 863,T-mis- 1690,T-mis- 2531",5,2.5,87.5,Medium
+470,W,3,"T-mis-2188,T-mis- 1644,T-mis- 2815,T-mis- 1488",3,4,84,Medium
+471,W,3,"T-mis-1204,T-mis- 1453,T-mis- 1541",3,5,105,Medium
+472,S,2,"T-mis-2968,T-mis- 2546",3,4,84,Medium
+473,M,1,"T-mis-456,T-mis- 2709,T-mis- 2932,T-mis- 2",1,5,35,Medium
+474,M,1,"T-mis-2151,T-mis- 892",3,2,42,High
+475,S,2,"T-mis-3307,T-mis- 1988",3,2.5,52.5,Medium
+476,S,2,"T-mis-3279,T-mis- 3250,T-mis- 309,T-mis- 1420",5,2.5,87.5,High
+477,S,2,"T-mis-1841,T-mis- 1385,T-mis- 2006",5,5,175,Medium
+478,S,2,"T-mis-140,T-mis- 2699,T-mis- 1101",5,4,140,Medium
+479,M,1,"T-mis-482,T-mis- 928,T-mis- 614,T-mis- 145",5,2.5,87.5,Medium
+480,M,1,"T-mis-3311,T-mis- 1638,T-mis- 655",5,4,140,High
+481,M,1,T-mis-3377,1,1.5,10.5,Medium
+482,M,1,"T-mis-741,T-mis- 2336,T-mis- 362",3,5,105,Low
+483,M,1,"T-mis-881,T-mis- 1738",3,4,84,Medium
+484,C,3,"T-mis-2125,T-mis- 2279,T-mis- 1890,T-mis- 3256",5,5,175,Medium
+485,C,3,T-mis-1809,3,1.5,31.5,Medium
+486,M,1,"T-mis-706,T-mis- 503",3,2.5,52.5,Medium
+487,M,1,"T-mis-1349,T-mis- 52,T-mis- 1420",5,2.5,87.5,Medium
+488,M,1,"T-mis-708,T-mis- 843,T-mis- 920,T-mis- 3370",3,4,84,Medium
+489,S,2,T-mis-1272,1,4,28,Medium
+490,M,1,"T-mis-2123,T-mis- 2142,T-mis- 562,T-mis- 969",1,2.5,17.5,Medium
+491,W,3,T-mis-1754,3,1,21,Medium
+492,M,1,"T-mis-394,T-mis- 529,T-mis- 163,T-mis- 299",5,4,140,Medium
+493,S,2,"T-mis-1543,T-mis- 339,T-mis- 2425",1,2.5,17.5,Medium
+494,M,1,"T-mis-2229,T-mis- 141,T-mis- 3055,T-mis- 400",1,5,35,High
+495,S,2,"T-mis-859,T-mis- 2291",5,4,140,Medium
+496,S,2,"T-mis-3346,T-mis- 2934,T-mis- 750,T-mis- 2065",1,4,28,Medium
+497,W,3,T-mis-1777,1,1,7,Medium
+498,M,1,"T-mis-2803,T-mis- 1556,T-mis- 1306",1,2.5,17.5,Medium
+499,M,1,T-mis-2435,3,1,21,Medium
+500,S,2,"T-mis-1588,T-mis- 3325,T-mis- 3279,T-mis- 2496",1,5,35,Medium
+501,W,3,"T-mis-2032,T-mis- 2902,T-mis- 956,T-mis- 3000",5,4,140,Medium
+502,W,3,"T-mis-569,T-mis- 1808",5,2,70,Medium
+503,S,2,T-mis-1753,3,1,21,Medium
+504,C,3,"T-mis-318,T-mis- 2660",3,4,84,Medium
+505,S,2,"T-mis-946,T-mis- 145,T-mis- 1708",1,2.5,17.5,Medium
+506,M,1,"T-mis-3231,T-mis- 708",3,2.5,52.5,Medium
+507,S,2,"T-mis-407,T-mis- 1270,T-mis- 210",1,5,35,Medium
+508,C,3,T-mis-2029,1,1.5,10.5,Medium
+509,C,3,"T-mis-738,T-mis- 3285,T-mis- 2437",3,3,63,Medium
+510,C,3,"T-mis-3229,T-mis- 601",3,2,42,Low
+511,C,3,"T-mis-1011,T-mis- 2227",3,2,42,Medium
+512,S,2,"T-mis-711,T-mis- 1784,T-mis- 2812,T-mis- 1972",5,2.5,87.5,Medium
+513,W,3,T-mis-410,5,1.5,52.5,Medium
+514,S,2,"T-mis-1258,T-mis- 271,T-mis- 1914,T-mis- 2697",1,5,35,Medium
+515,W,3,"T-mis-1480,T-mis- 1108,T-mis- 1141,T-mis- 192",3,4,84,Medium
+516,S,2,T-mis-1306,3,1,21,High
+517,M,1,"T-mis-1497,T-mis- 1646,T-mis- 2693",3,5,105,Medium
+518,W,3,T-mis-438,3,1.5,31.5,High
+519,S,2,"T-mis-2303,T-mis- 2317,T-mis- 1692,T-mis- 1404",3,4,84,Medium
+520,S,2,"T-mis-3152,T-mis- 915,T-mis- 376",1,3,21,Medium
+521,M,1,"T-mis-2564,T-mis- 1203",1,2,14,Medium
+522,S,2,"T-mis-1610,T-mis- 1710,T-mis- 3222,T-mis- 2363",3,2.5,52.5,High
+523,M,1,"T-mis-2585,T-mis- 3312,T-mis- 2426,T-mis- 2215",1,4,28,Medium
+524,M,1,T-mis-2238,1,2,14,High
+525,W,3,T-mis-1348,1,1.5,10.5,Medium
+526,M,1,T-mis-1111,3,5,105,Medium
+527,S,2,"T-mis-2343,T-mis- 1747,T-mis- 2944,T-mis- 2842",5,2.5,87.5,Medium
+528,W,3,T-mis-446,5,1,35,High
+529,S,2,"T-mis-3223,T-mis- 2313,T-mis- 1058",3,5,105,Medium
+530,C,3,"T-mis-432,T-mis- 2406,T-mis- 2301",3,2.5,52.5,High
+531,W,3,T-mis-3221,3,1,21,Medium
+532,C,3,"T-mis-2066,T-mis- 1014,T-mis- 889",3,2.5,52.5,Medium
+533,W,3,T-mis-3376,3,1.5,31.5,Medium
+534,M,1,T-mis-1525,5,1,35,Medium
+535,M,1,"T-mis-3098,T-mis- 499,T-mis- 3208,T-mis- 2664",5,4,140,Medium
+536,S,2,"T-mis-2942,T-mis- 2059",1,2.5,17.5,Medium
+537,M,1,T-mis-868,3,1,21,Medium
+538,M,1,"T-mis-1206,T-mis- 2054",3,5,105,Medium
+539,M,1,"T-mis-3162,T-mis- 2208",3,4,84,Medium
+540,S,2,"T-mis-245,T-mis- 1655,T-mis- 420",3,4,84,Medium
+541,M,1,"T-mis-568,T-mis- 1794,T-mis- 2090",5,2.5,87.5,Medium
+542,W,3,"T-mis-3212,T-mis- 1948,T-mis- 1424",3,2.5,52.5,High
+543,M,1,T-mis-2216,5,1,35,Medium
+544,C,3,"T-mis-177,T-mis- 2777",5,5,175,Medium
+545,S,2,T-mis-765,5,1,35,Medium
+546,C,3,"T-mis-2502,T-mis- 1084",1,5,35,Medium
+547,C,3,T-mis-1655,5,1,35,Medium
+548,M,1,"T-mis-1460,T-mis- 1086,T-mis- 1342,T-mis- 2134",5,5,175,High
+549,S,2,T-mis-979,3,1,21,Medium
+550,S,2,T-mis-369,3,1,21,Medium
+551,M,1,T-mis-1162,5,5,175,Medium
+552,C,3,T-mis-557,3,4,84,High
+553,W,3,"T-mis-638,T-mis- 2793,T-mis- 2724,T-mis- 74",3,4,84,Medium
+554,W,3,"T-mis-2852,T-mis- 1193",5,2,70,Medium
+555,S,2,"T-mis-1254,T-mis- 1996,T-mis- 2172",5,4,140,Medium
+556,M,1,"T-mis-1372,T-mis- 474,T-mis- 259,T-mis- 1761",1,4,28,Medium
+557,W,3,"T-mis-53,T-mis- 529",5,1.5,52.5,Medium
+558,M,1,"T-mis-2684,T-mis- 2794,T-mis- 2700",3,4,84,Medium
+559,W,3,"T-mis-2796,T-mis- 1671",5,4,140,Medium
+560,C,3,"T-mis-2655,T-mis- 942,T-mis- 206",5,4,140,Low
+561,M,1,"T-mis-1695,T-mis- 1459,T-mis- 2119,T-mis- 1736",3,4,84,Medium
+562,C,3,T-mis-1293,1,2,14,Medium
+563,S,2,T-mis-2381,5,1.5,52.5,Medium
+564,M,1,"T-mis-1579,T-mis- 153,T-mis- 2000",3,5,105,High
+565,C,3,T-mis-2959,1,2,14,Medium
+566,S,2,"T-mis-1629,T-mis- 1235",5,4,140,Medium
+567,S,2,"T-mis-2305,T-mis- 2669,T-mis- 2657,T-mis- 1607",3,2.5,52.5,Medium
+568,S,2,"T-mis-932,T-mis- 2050,T-mis- 2915,T-mis- 303",3,2.5,52.5,Medium
+569,S,2,"T-mis-767,T-mis- 1536,T-mis- 1218,T-mis- 524",5,4,140,Medium
+570,S,2,"T-mis-3396,T-mis- 702,T-mis- 98",5,4,140,High
+571,W,3,"T-mis-1912,T-mis- 525,T-mis- 1804",5,5,175,Medium
+572,S,2,"T-mis-2112,T-mis- 3348",5,2,70,High
+573,W,3,"T-mis-1170,T-mis- 378,T-mis- 2724,T-mis- 719",5,4,140,Medium
+574,S,2,"T-mis-1107,T-mis- 254,T-mis-1848,T-mis- 3143,T-mis- 1091,T-mis- 895",3,7,147,Medium
+575,W,3,"T-mis-1600,T-mis- 3096,T-mis- 1049",5,4,140,Medium
+576,M,1,"T-mis-718,T-mis- 1310,T-mis- 350,T-mis- 380",1,4,28,High
+577,C,3,"T-mis-2164,T-mis- 2031,T-mis- 987",3,5,105,Medium
+578,S,2,"T-mis-1479,T-mis- 2237,T-mis- 259",1,5,35,High
+579,S,2,T-mis-430,1,1.5,10.5,Medium
+580,C,3,T-mis-2401,1,2,14,Medium
+581,C,3,"T-mis-566,T-mis- 1321,T-mis- 426,T-mis- 1326",5,2.5,87.5,Medium
+582,M,1,"T-mis-3109,T-mis- 771,T-mis- 2330",5,4,140,Medium
+583,C,3,"T-mis-381,T-mis- 2726,T-mis- 3133,T-mis- 2578",3,2.5,52.5,Medium
+584,C,3,"T-mis-1121,T-mis- 3036",3,2.5,52.5,Low
+585,M,1,T-mis-3244,3,1.5,31.5,Medium
+586,S,2,T-mis-2721,1,1.5,10.5,Medium
+587,M,1,"T-mis-3209,T-mis- 654",3,5,105,Medium
+588,C,3,T-mis-2594,5,1,35,Low
+589,S,2,T-mis-1935,5,1,35,Medium
+590,M,1,"T-mis-1160,T-mis- 370,T-mis- 2007,T-mis- 131",5,5,175,High
+591,M,1,T-mis-2248,3,2,42,Medium
+592,C,3,"T-mis-41,T-mis- 2886,T-mis- 1141",5,4,140,Medium
+593,M,1,"T-mis-3143,T-mis- 1164,T-mis- 847",3,2.5,52.5,Medium
+594,M,1,"T-mis-3359,T-mis- 2151,T-mis- 3211",1,2.5,17.5,High
+595,M,1,"T-mis-3171,T-mis- 356,T-mis- 922,T-mis- 1837",5,4,140,Medium
+596,S,2,"T-mis-347,T-mis-1609,T-mis- 2727,T-mis- 923,T-mis- 1068",5,6,210,Medium
+597,M,3,T-mis-2110,3,1.5,31.5,Medium
+598,M,1,"T-mis-2321,T-mis- 2106,T-mis- 1175,T-mis- 1905",3,4,84,Medium
+599,M,3,"T-mis-970,T-mis- 2673,T-mis- 2652,T-mis- 2698",1,2.5,17.5,Medium
+600,M,3,T-mis-214,5,1.5,52.5,Low
+601,M,3,"T-mis-707,T-mis- 1078",3,5,105,Medium
+602,S,2,"T-mis-2615,T-mis- 1103",3,5,105,High
+603,M,3,"T-mis-287,T-mis- 617",3,4,84,Medium
+604,M,1,"T-mis-187,T-mis- 3183,T-mis- 1086",3,5,105,Medium
+605,W,3,"T-mis-1041,T-mis- 2591,T-mis- 1200,T-mis- 482",1,5,35,Medium
+606,S,2,"T-mis-260,T-mis- 2222",3,2.5,52.5,Medium
+607,M,1,"T-mis-2383,T-mis- 602,T-mis- 3088,T-mis- 968",1,2.5,17.5,Medium
+608,S,2,"T-mis-1479,T-mis- 2260",3,5,105,High
+609,M,1,T-mis-1663,3,1,21,Medium
+610,S,2,"T-mis-1244,T-mis- 1586,T-mis- 275,T-mis- 668",3,5,105,Medium
+611,M,1,"T-mis-107,T-mis- 715,T-mis- 1005",3,5,105,Medium
+612,W,3,"T-mis-3144,T-mis- 2919,T-mis- 1800",5,2.5,87.5,Medium
+613,W,3,"T-mis-1536,T-mis- 1651",5,4,140,Medium
+614,M,1,T-mis-945,5,1,35,Low
+615,M,1,T-mis-2361,3,1,21,Medium
+616,S,2,"T-mis-3350,T-mis- 3195,T-mis- 2852,T-mis- 668",5,5,175,Medium
+617,S,2,T-mis-672,1,1,7,Medium
+618,S,2,"T-mis-81,T-mis- 104,T-mis- 3195",3,5,105,High
+619,S,2,"T-mis-3175,T-mis- 936",1,2.5,17.5,Medium
+620,M,1,"T-mis-2264,T-mis- 1601,T-mis- 2519,T-mis- 1632",1,4,28,High
+621,S,2,T-mis-751,5,1,35,Medium
+622,M,1,"T-mis-2644,T-mis- 1790,T-mis- 3098",1,2.5,17.5,Medium
+623,M,1,"T-mis-1675,T-mis- 562,T-mis- 632",1,5,35,Medium
+624,S,2,"T-mis-2535,T-mis- 1704,T-mis- 2576",5,2.5,87.5,Medium
+625,M,1,"T-mis-2453,T-mis- 1021",3,2,42,Medium
+626,C,3,"T-mis-2470,T-mis- 1558,T-mis- 545",3,5,105,Medium
+627,C,3,"T-mis-529,T-mis- 2097",1,2,14,Medium
+628,S,2,"T-mis-549,T-mis- 744",5,2.5,87.5,Medium
+629,S,2,T-mis-1890,3,1.5,31.5,Medium
+630,S,2,"T-mis-3334,T-mis- 3157,T-mis- 1087,T-mis- 804",5,2.5,87.5,High
+631,M,1,T-mis-2229,5,1.5,52.5,Medium
+632,M,1,"T-mis-1294,T-mis- 1830,T-mis- 371",5,5,175,High
+633,W,3,"T-mis-2428,T-mis- 420",5,2,70,Medium
+634,M,1,"T-mis-1519,T-mis- 87,T-mis- 1063,T-mis- 2428",5,2.5,87.5,Medium
+635,M,1,"T-mis-525,T-mis- 2903,T-mis- 2923",1,2.5,17.5,Medium
+636,S,2,T-mis-3218,5,1.5,52.5,High
+637,M,1,"T-mis-2440,T-mis- 1737,T-mis- 2863,T-mis- 1531",1,2.5,17.5,Medium
+638,W,3,T-mis-2416,3,2.5,52.5,Medium
+639,S,2,T-mis-464,3,1,21,Medium
+640,W,3,"T-mis-1586,T-mis- 656",5,5,175,Medium
+641,S,2,"T-mis-545,T-mis- 892",5,2.5,87.5,Medium
+642,S,2,"T-mis-1610,T-mis- 3396,T-mis- 749",3,4,84,Medium
+643,M,1,"T-mis-2533,T-mis- 78,T-mis- 682,T-mis- 1654",1,4,28,Medium
+644,W,3,"T-mis-370,T-mis- 1801",1,2,14,High
+645,M,1,T-mis-1087,5,1,35,Medium
+646,M,1,"T-mis-140,T-mis- 3046",5,4,140,Medium
+647,M,1,"T-mis-2192,T-mis- 168,T-mis- 1021",5,4,140,Medium
+648,W,3,"T-mis-150,T-mis- 3238,T-mis- 1822",5,2.5,87.5,Low
+649,S,2,"T-mis-2303,T-mis- 427,T-mis- 2159,T-mis- 1969",3,5,105,Medium
+650,S,2,"T-mis-3012,T-mis- 3345",5,5,175,High
+651,W,3,"T-mis-1352,T-mis- 1090,T-mis- 597",3,3,63,Medium
+652,W,3,"T-mis-2805,T-mis- 2382,T-mis- 2895",5,4,140,Medium
+653,S,2,T-mis-3281,1,1.5,10.5,Medium
+654,C,3,"T-mis-1474,T-mis- 2452,T-mis- 3256",5,4,140,High
+655,C,3,T-mis-2599,1,1,7,Medium
+656,M,1,"T-mis-1926,T-mis- 229,T-mis- 575",1,4,28,High
+657,C,3,"T-mis-1060,T-mis- 688,T-mis- 11",1,4,28,Medium
+658,C,3,T-mis-1097,3,5,105,Medium
+659,M,1,"T-mis-2277,T-mis- 794",1,4,28,Medium
+660,M,1,"T-mis-1106,T-mis- 2036",3,5,105,High
+661,C,3,T-mis-2195,3,5,105,Medium
+662,S,2,"T-mis-2058,T-mis- 1344,T-mis- 2291,T-mis- 3039",1,4,28,Low
+663,C,3,T-mis-2837,1,4,28,Low
+664,W,3,"T-mis-1269,T-mis- 3079,T-mis- 1821,T-mis- 854",5,4,140,Low
+665,S,2,T-mis-3048,5,1.5,52.5,Low
+666,S,2,"T-mis-2837,T-mis- 1608,T-mis- 2655",1,2.5,17.5,Low
+667,M,1,"T-mis-976,T-mis- 2483,T-mis- 1214,T-mis- 1641",1,4,28,Low
+668,S,2,"T-mis-858,T-mis- 3174",1,2,14,Medium
+669,M,1,"T-mis-795,T-mis- 2963,T-mis- 2844",1,4,28,Low
+670,S,2,T-mis-2296,3,1,21,Low
+671,S,2,"T-mis-2123,T-mis- 2691",5,4,140,Low
+672,S,2,"T-mis-64,T-mis- 1975,T-mis- 1186,T-mis- 2602",3,5,105,High
+673,M,1,T-mis-1977,5,1,35,Low
+674,W,3,T-mis-3065,3,4,84,Medium
+675,S,2,T-mis-319,5,1,35,Low
+676,S,2,"T-mis-3312,T-mis- 2605,T-mis- 2513",1,3,21,Low
+677,W,3,"T-mis-2293,T-mis- 2725,T-mis- 3203,T-mis- 2811",1,4,28,Low
+678,W,3,"T-mis-88,T-mis- 708",1,2,14,High
+679,M,1,"T-mis-1662,T-mis- 3248,T-mis- 2958",1,4,28,Low
+680,S,2,"T-mis-2701,T-mis- 1114",5,3,105,Low
+681,S,2,T-mis-603,5,2.5,87.5,Low
+682,M,1,"T-mis-1498,T-mis- 970",1,2.5,17.5,Low
+683,C,3,"T-mis-1368,T-mis- 264",1,2.5,17.5,Low
+684,S,2,"T-mis-3180,T-mis- 990",1,2.5,17.5,Medium
+685,M,1,"T-mis-2407,T-mis- 2872",5,2.5,87.5,Low
+686,C,3,T-mis-3130,5,1..5,35,Low
+687,M,1,"T-mis-1067,T-mis- 1586,T-mis- 21",1,4,28,Low
+688,M,1,"T-mis-1685,T-mis- 1326,T-mis- 3177",3,2.5,52.5,Low
+689,M,1,T-mis-1601,3,1,21,Low
+690,C,3,"T-mis-1315,T-mis- 1906,T-mis- 2187",3,4,84,Medium
+691,M,1,"T-mis-1494,T-mis- 250,T-mis- 3096",5,4,140,Low
+692,S,2,"T-mis-709,T-mis- 1572",1,4,28,Medium
+693,S,2,T-mis-68,5,2,70,Low
+694,S,2,"T-mis-3155,T-mis- 3399",1,2.5,17.5,Low
+695,S,2,"T-mis-3012,T-mis- 3085,T-mis- 3256,T-mis-2078,T-mis- 2983,T-mis- 874,T-mis- 3019",3,8,168,Low
+696,M,1,"T-mis-359,T-mis- 147",3,4,84,Low
+697,S,2,"T-mis-135,T-mis- 2754,T-mis- 2347,T-mis- 2810",1,2.5,17.5,Low
+698,S,2,"T-mis-1029,T-mis- 346",5,4,140,Medium
+699,S,2,T-mis-2244,5,1,35,Low
+700,S,2,"T-mis-328,T-mis- 2690,T-mis- 2924,T-mis- 2752",5,5,175,Low
+701,W,3,"T-mis-1535,T-mis- 2804,T-mis- 1502",1,2.5,17.5,Low
+702,W,3,"T-mis-1736,T-mis- 39,T-mis- 250,T-mis- 2600",5,4,140,Medium
+703,S,2,"T-mis-985,T-mis- 1908,T-mis- 2136",1,4,28,Low
+704,W,3,"T-mis-807,T-mis- 1404,T-mis- 2098",1,5,35,Medium
+705,W,3,"T-mis-2155,T-mis- 782,T-mis- 2502",1,5,35,Low
+706,W,3,"T-mis-3290,T-mis- 2262,T-mis- 817,T-mis- 2721",5,4,140,Low
+707,W,3,"T-mis-1845,T-mis- 2197,T-mis- 2885",1,2.5,17.5,Low
+708,W,3,T-mis-1856,5,2,70,Low
+709,C,3,T-mis-3041,1,2,14,Low
+710,C,3,"T-mis-2497,T-mis- 561,T-mis- 195",5,2.5,87.5,Medium
+711,W,3,"T-mis-2583,T-mis- 684,T-mis- 293,T-mis- 2217",5,5,175,Low
+712,M,1,T-mis-970,3,1.5,31.5,Low
+713,S,2,"T-mis-2965,T-mis- 1402",1,2,14,Low
+714,M,1,"T-mis-1892,T-mis- 3124",1,1.5,10.5,High
+715,M,1,"T-mis-2256,T-mis- 984",5,2.5,87.5,Low
+716,M,1,"T-mis-1680,T-mis- 3373,T-mis- 642",1,4,28,Medium
+717,S,2,"T-mis-1698,T-mis- 3147",3,2.5,52.5,Low
+718,M,1,"T-mis-529,T-mis- 1852,T-mis- 143",5,2.5,87.5,Low
+719,S,2,T-mis-1987,3,2,42,Low
+720,S,2,"T-mis-464,T-mis- 521,T-mis- 428",1,5,35,Medium
+721,S,2,"T-mis-114,T-mis- 39,T-mis- 1260,T-mis- 379",1,2.5,17.5,Low
+722,C,3,"T-mis-272,T-mis- 290,T-mis- 2866,T-mis- 1771",1,5,35,Low
+723,M,1,"T-mis-2045,T-mis- 885,T-mis- 1438,T-mis- 1802",3,4,84,Low
+724,M,1,T-mis-1471,5,1,35,Low
+725,W,3,T-mis-3142,5,1,35,Low
+726,W,3,"T-mis-379,T-mis- 2127,T-mis- 222",1,4,28,Low
+727,C,3,"T-mis-2077,T-mis- 552",1,4,28,Low
+728,S,2,"T-mis-3247,T-mis- 2219,T-mis- 3106",5,4,140,High
+729,M,1,"T-mis-3057,T-mis- 3342",3,4,84,Low
+730,M,1,T-mis-322,5,2,70,Low
+731,M,1,"T-mis-2255,T-mis- 2921,T-mis- 2993",1,5,35,Low
+732,M,1,"T-mis-2378,T-mis- 2419,T-mis- 276,T-mis- 2166",3,4,84,Medium
+733,C,3,"T-mis-2581,T-mis- 685,T-mis- 749",1,4,28,Low
+734,C,3,T-mis-1852,5,2,70,Low
+735,C,3,"T-mis-2369,T-mis- 232,T-mis- 3181",3,4,84,Low
+736,M,1,"T-mis-1217,T-mis- 1376,T-mis- 200,T-mis- 1498",3,4,84,Low
+737,C,3,T-mis-2107,5,1.5,52.5,Low
+738,S,2,"T-mis-2612,T-mis- 2273,T-mis- 2038",3,4,84,Medium
+739,S,2,"T-mis-2228,T-mis- 118,T-mis- 2212",1,4,28,Low
+740,C,3,T-mis-1269,5,1.5,52.5,Medium
+741,C,3,"T-mis-130,T-mis- 971,T-mis- 3345",5,4,140,Low
+742,S,2,"T-mis-2728,T-mis- 1305,T-mis- 703,T-mis- 2506",1,4,28,Low
+743,M,1,"T-mis-1144,T-mis- 1424,T-mis- 1108",3,4,84,Low
+744,S,2,"T-mis-1561,T-mis- 1991",5,5,175,Medium
+745,W,3,T-mis-1455,3,1.5,31.5,Low
+746,M,1,T-mis-785,3,1,21,Low
+747,W,3,"T-mis-2780,T-mis- 724,T-mis- 3105",1,2.5,17.5,Low
+748,S,2,"T-mis-2041,T-mis- 39,T-mis- 2129",1,4,28,Low
+749,M,1,T-mis-244,5,2.5,87.5,Low
+750,M,1,"T-mis-2607,T-mis- 2737,T-mis- 628",3,4,84,Low
+751,W,3,"T-mis-2543,T-mis- 3139",1,4,28,Low
+752,S,2,"T-mis-3396,T-mis- 462,T-mis- 408,T-mis- 2567",5,4,140,Medium
+753,C,3,"T-mis-887,T-mis- 3207,T-mis- 1459,T-mis- 1700",1,4,28,Low
+754,M,1,"T-mis-2734,T-mis- 3247",1,4,28,Low
+755,C,3,"T-mis-450,T-mis- 1046",3,4,84,Low
+756,C,3,"T-mis-2503,T-mis- 1477",3,4,84,Low
+757,C,3,T-mis-690,3,1.5,31.5,Low
+758,S,2,T-mis-1526,5,1,35,High
+759,S,2,"T-mis-950,T-mis- 3331,T-mis- 1100,T-mis- 2805",3,5,105,Low
+760,M,1,"T-mis-3052,T-mis- 2259",1,2,14,Low
+761,C,3,T-mis-1074,5,1,35,Low
+762,S,2,T-mis-2393,3,1,21,Medium
+763,M,1,"T-mis-2305,T-mis- 1126,T-mis- 1728",5,4,140,Low
+764,M,1,"T-mis-94,T-mis- 307",5,3,105,Low
+765,M,1,"T-mis-2937,T-mis- 1259,T-mis- 857,T-mis- 2093",3,4,84,Low
+766,M,1,"T-mis-602,T-mis- 3343",1,3,21,Low
+767,W,3,"T-mis-2093,T-mis- 1859,T-mis- 3122",1,4.5,31.5,Low
+768,M,1,"T-mis-2829,T-mis- 2789,T-mis- 1760",1,4,28,Medium
+769,S,2,T-mis-3300,1,1,7,Low
+770,S,2,T-mis-1677,5,2,70,Medium
+771,W,3,"T-mis-1744,T-mis- 2329,T-mis- 288,T-mis- 446",1,2.5,17.5,Low
+772,W,3,T-mis-2200,1,1.5,10.5,Low
+773,M,1,"T-mis-1208,T-mis- 2837",5,2.5,87.5,Low
+774,W,3,"T-mis-310,T-mis- 2869,T-mis- 505",1,2.5,17.5,Medium
+775,M,1,"T-mis-3238,T-mis- 1538,T-mis- 1818,T-mis- 1320",3,5,105,Low
+776,M,1,"T-mis-3331,T-mis- 3368",3,2.5,52.5,High
+777,S,2,"T-mis-1563,T-mis- 704",1,4,28,Low
+778,M,1,"T-mis-2180,T-mis- 1348,T-mis- 2339",5,4.5,157.5,Low
+779,C,3,"T-mis-2716,T-mis- 3043,T-mis- 2294",1,4.5,31.5,Low
+780,S,2,T-mis-339,1,1,7,Medium
+781,S,2,"T-mis-1431,T-mis- 881",3,2.5,52.5,Low
+782,S,2,T-mis-1201,3,2,42,Medium
+783,C,3,"T-mis-820,T-mis- 2742,T-mis- 657,T-mis- 1200",3,4,84,Low
+784,M,1,"T-mis-2906,T-mis- 2946,T-mis- 2225",1,4,28,Low
+785,W,3,T-mis-2344,3,2.5,52.5,Low
+786,S,2,T-mis-2143,3,2,42,Low
+787,W,3,"T-mis-2519,T-mis- 2971,T-mis- 2931",3,4,84,Low
+788,M,1,"T-mis-364,T-mis- 2445,T-mis- 2257",1,5,35,Medium
+789,W,3,"T-mis-1765,T-mis- 2417",3,2.5,52.5,Low
+790,M,1,"T-mis-2074,T-mis- 3098,T-mis- 2095,T-mis- 715",3,4,84,Low
+791,W,3,"T-mis-2956,T-mis- 1748",3,2,42,Low
+792,S,2,T-mis-815,5,1.5,52.5,Low
+793,M,1,T-mis-1626,5,1,35,Low
+794,S,2,"T-mis-2346,T-mis- 2713,T-mis- 1042",1,4,28,Low
+795,M,1,"T-mis-661,T-mis- 1547,T-mis- 844",1,4,28,Low
+796,M,1,T-mis-3222,1,5,35,Low
+797,M,1,"T-mis-430,T-mis- 3014,T-mis- 1113",5,2.5,87.5,Low
+798,S,2,"T-mis-3392,T-mis- 2356,T-mis- 1",3,4,84,Medium
+799,S,2,"T-mis-936,T-mis- 3343",5,2.5,87.5,Low
+800,S,2,"T-mis-2643,T-mis- 3045",3,2.5,52.5,Medium
+801,S,2,"T-mis-59,T-mis- 2505",5,2,70,Low
+802,C,3,"T-mis-1259,T-mis- 370",3,2.5,52.5,Low
+803,C,3,T-mis-1818,1,1,7,Low
+804,S,2,"T-mis-2236,T-mis- 2903",3,2.5,52.5,Low
+805,C,3,"T-mis-2845,T-mis- 2296,T-mis- 1519",1,4,28,Low
+806,S,2,"T-mis-2743,T-mis- 583,T-mis- 2562,T-mis- 379",3,4,84,Low
+807,M,1,T-mis-1282,1,1.5,10.5,Low
+808,S,2,"T-mis-1142,T-mis- 751,T-mis- 56",1,4,28,Low
+809,C,3,"T-mis-1606,T-mis- 1887",3,3,63,Low
+810,S,2,"T-mis-1155,T-mis- 3069,T-mis- 842",3,4.5,94.5,Medium
+811,M,1,T-mis-971,5,1,35,Low
+812,S,2,"T-mis-1344,T-mis- 453,T-mis- 1709,T-mis- 2420",3,5,105,Medium
+813,W,3,T-mis-178,1,1.5,10.5,Low
+814,W,3,"T-mis-2276,T-mis- 1133,T-mis- 2061,T-mis- 2328",1,5,35,Low
+815,W,3,"T-mis-392,T-mis- 395,T-mis- 2396,T-mis- 1185",3,4,84,Low
+816,S,2,"T-mis-1333,T-mis- 3028,T-mis- 2901,T-mis- 63",1,4,28,Medium
+817,M,1,"T-mis-737,T-mis- 2262,T-mis- 1891,T-mis- 3248",5,2.5,87.5,Low
+818,W,3,T-mis-2684,3,4,84,Medium
+819,M,1,"T-mis-1748,T-mis- 411",3,5,105,Low
+820,M,1,T-mis-366,3,1.5,31.5,Low
+821,M,1,"T-mis-1491,T-mis- 3300,T-mis- 2852",5,5,175,Low
+822,S,2,"T-mis-734,T-mis- 1063,T-mis- 2914",1,4,28,Medium
+823,M,1,"T-mis-849,T-mis- 2420,T-mis- 2628,T-mis- 1304",1,4,28,Low
+824,C,3,"T-mis-3040,T-mis- 1689,T-mis- 1086",1,4,28,Medium
+825,C,3,"T-mis-1212,T-mis- 2269,T-mis- 2270,T-mis- 3276",1,4,28,Low
+826,S,2,"T-mis-368,T-mis- 671,T-mis- 3174",5,4,140,Low
+827,M,1,"T-mis-51,T-mis- 149,T-mis- 1353",3,4,84,Low
+828,C,3,T-mis-1475,3,1.5,31.5,Medium
+829,S,2,"T-mis-3085,T-mis- 1328,T-mis- 1367,T-mis- 2159",1,2.5,17.5,Low
+830,C,3,"T-mis-1928,T-mis- 2802,T-mis- 3312,T-mis- 1520",5,4,140,Low
+831,C,3,"T-mis-2531,T-mis- 866",3,2,42,Low
+832,W,3,"T-mis-2783,T-mis- 1778",3,2.5,52.5,Low
+833,M,1,"T-mis-1793,T-mis- 2238,T-mis- 634",1,4,28,Low
+834,M,1,"T-mis-1126,T-mis- 543,T-mis- 500",3,4,84,Low
+835,W,3,"T-mis-2318,T-mis- 1970",1,2,14,Low
+836,S,2,"T-mis-1236,T-mis- 888",5,1.5,52.5,Medium
+837,S,2,"T-mis-271,T-mis- 2315,T-mis- 1960",3,2.5,52.5,Low
+838,M,1,"T-mis-2095,T-mis- 2707,T-mis- 3283",1,4,28,Low
+839,M,1,"T-mis-1076,T-mis- 2168,T-mis- 1026,T-mis- 2847",1,2.5,17.5,Low
+840,S,2,"T-mis-2046,T-mis- 205",5,2.5,87.5,Medium
+841,S,2,"T-mis-36,T-mis- 75,T-mis- 2524",5,4,140,Low
+842,M,1,"T-mis-2720,T-mis- 225,T-mis- 540",3,4,84,Low
+843,S,2,T-mis-554,5,1,35,Low
+844,M,1,"T-mis-1136,T-mis- 2699,T-mis- 2630,T-mis- 2958",1,5,35,Low
+845,S,2,"T-mis-1805,T-mis- 197,T-mis- 3155,T-mis- 1517",1,4,28,Low
+846,W,3,"T-mis-1929,T-mis- 1594",3,1.5,31.5,Low
+847,M,1,"T-mis-2461,T-mis- 1768,T-mis- 435",3,4,84,Low
+848,C,3,"T-mis-3274,T-mis- 1246,T-mis- 2738,T-mis- 1377",3,4,84,Low
+849,M,1,T-mis-2767,3,1,21,Low
+850,M,1,T-mis-3030,3,1.5,31.5,Low
+851,C,3,"T-mis-1284,T-mis- 3072,T-mis- 2423",5,2.5,87.5,Low
+852,M,1,"T-mis-2752,T-mis- 881,T-mis- 557",1,2.5,17.5,Medium
+853,C,3,"T-mis-616,T-mis- 1969,T-mis- 1251",3,4,84,Low
+854,M,1,"T-mis-2700,T-mis- 2319,T-mis- 1756,T-mis- 1797",3,4,84,Medium
+855,C,3,"T-mis-52,T-mis- 1413",3,2,42,Low
+856,M,1,"T-mis-1446,T-mis- 1268,T-mis- 1804",5,5,175,Low
+857,C,3,"T-mis-3055,T-mis- 2988,T-mis- 220,T-mis- 2738",5,4,140,Low
+858,W,3,T-mis-2557,1,1.5,10.5,Medium
+859,S,2,"T-mis-293,T-mis- 460",1,2,14,Low
+860,M,1,"T-mis-2311,T-mis- 3166,T-mis- 504",3,4,84,Medium
+861,M,1,"T-mis-3087,T-mis- 1570,T-mis- 3317",1,4,28,Low
+862,M,1,"T-mis-1338,T-mis- 1454,T-mis- 1966,T-mis- 1155",1,2.5,17.5,Low
+863,C,3,"T-mis-2513,T-mis- 651,T-mis- 193,T-mis- 1716",3,2.5,52.5,Low
+864,S,2,"T-mis-2043,T-mis- 2728,T-mis- 1863,T-mis- 730",3,2.5,52.5,Low
+865,W,3,"T-mis-3216,T-mis- 108",3,5,105,Low
+866,S,2,"T-mis-1423,T-mis- 2117",1,5,35,Low
+867,S,2,"T-mis-583,T-mis- 676,T-mis- 288,T-mis- 2046",1,4,28,Low
+868,C,3,"T-mis-2956,T-mis- 2533,T-mis- 1439,T-mis- 812",5,4.5,157.5,Low
+869,W,3,"T-mis-3168,T-mis- 514,T-mis- 3080,T-mis- 2847",1,5,35,Low
+870,W,3,"T-mis-1974,T-mis- 1803,T-mis- 2216,T-mis- 186",1,4,28,Low
+871,M,1,"T-mis-3224,T-mis- 1169,T-mis- 2012",1,4.5,31.5,Low
+872,M,1,"T-mis-2933,T-mis- 53,T-mis- 2317",5,4,140,Medium
+873,C,3,"T-mis-2137,T-mis- 3215,T-mis- 3326,T-mis- 3102",5,4,140,Low
+874,M,1,"T-mis-2568,T-mis- 2762,T-mis- 2812,T-mis- 213",5,4,140,Low
+875,M,1,T-mis-2237,5,1.5,52.5,Low
+876,M,1,"T-mis-1678,T-mis- 117,T-mis- 284",3,4,84,Low
+877,M,1,"T-mis-3112,T-mis- 1394,T-mis- 1721",5,4,140,Low
+878,S,2,T-mis-1469,3,1.5,31.5,Medium
+879,W,3,"T-mis-329,T-mis- 2031",5,2.5,87.5,Low
+880,M,1,"T-mis-218,T-mis- 1403,T-mis- 2298",3,2.5,52.5,Low
+881,S,2,T-mis-2929,3,1.5,31.5,Low
+882,M,1,T-mis-899,3,1.5,31.5,Medium
+883,W,3,"T-mis-665,T-mis- 1959",5,4,140,Low
+884,S,2,"T-mis-3354,T-mis- 1764,T-mis- 2003,T-mis- 1284",3,4,84,Medium
+885,M,1,"T-mis-217,T-mis- 1761",3,2.5,52.5,Low
+886,M,1,"T-mis-2088,T-mis- 2031,T-mis- 2147",5,4,140,Low
+887,C,3,T-mis-1824,3,1.5,31.5,Low
+888,M,1,"T-mis-997,T-mis- 3163",1,2.5,17.5,Medium
+889,S,2,"T-mis-397,T-mis- 1724",3,2.5,52.5,Low
+890,C,3,T-mis-3112,1,2.5,17.5,Low
+891,S,2,"T-mis-1527,T-mis- 3379,T-mis- 3134,T-mis- 615",1,2.5,17.5,Low
+892,M,1,"T-mis-2947,T-mis- 2185",1,2.5,17.5,Low
+893,S,2,"T-mis-929,T-mis- 568,T-mis- 3378",3,5,105,Low
+894,M,1,"T-mis-3242,T-mis- 313,T-mis- 3267",5,5,175,Medium
+895,C,3,T-mis-1427,1,1.5,10.5,Low
+896,W,3,"T-mis-2672,T-mis- 262,T-mis- 2080",5,4,140,Low
+897,S,2,"T-mis-3325,T-mis- 927",3,5,105,Low
+898,M,1,"T-mis-1742,T-mis- 2076,T-mis- 2247",1,4,28,Low
+899,M,1,"T-mis-1217,T-mis- 336,T-mis- 1347",3,2.5,52.5,Low
+900,W,3,T-mis-915,1,1,7,Medium
+901,S,2,"T-mis-747,T-mis- 1748",5,2,70,Low
+902,S,2,"T-mis-379,T-mis- 1693,T-mis- 2266",3,4,84,Medium
+903,W,3,"T-mis-1811,T-mis- 1987,T-mis- 1815",1,4,28,Low
+904,W,3,"T-mis-130,T-mis- 2248,T-mis- 2258",1,5,35,Low
+905,M,1,T-mis-1276,5,1.5,52.5,Low
+906,M,1,"T-mis-1829,T-mis- 2450,T-mis- 242",3,4,84,Low
+907,S,2,"T-mis-1235,T-mis- 3185,T-mis- 2936,T-mis- 591",3,5,105,Low
+908,W,3,"T-mis-1723,T-mis- 2485",3,2.5,52.5,Medium
+909,M,1,"T-mis-1334,T-mis- 2364",1,2.5,17.5,Low
+910,W,3,T-mis-2854,1,2,14,Low
+911,S,2,"T-mis-2775,T-mis- 18,T-mis- 1631",5,2.5,87.5,Low
+912,M,1,"T-mis-3283,T-mis- 1986,T-mis- 1087",1,4,28,Medium
+913,S,2,T-mis-466,3,2.5,52.5,Low
+914,S,2,T-mis-1360,1,2.5,17.5,Medium
+915,M,1,"T-mis-487,T-mis- 907",3,2.5,52.5,Low
+916,M,1,"T-mis-1779,T-mis- 2140,T-mis- 488,T-mis- 258",3,4,84,Low
+917,M,1,"T-mis-1354,T-mis- 3234,T-mis- 674,T-mis- 482",3,2.5,52.5,Low
+918,M,1,"T-mis-2828,T-mis- 2998",5,4,140,Low
+919,M,1,"T-mis-2097,T-mis- 1596,T-mis- 1721,T-mis- 1677",3,2.5,52.5,Low
+920,M,1,T-mis-3011,5,1.5,52.5,Low
+921,S,2,"T-mis-1301,T-mis- 945",1,2.5,17.5,Low
+922,W,3,"T-mis-1908,T-mis- 478,T-mis- 3375",5,4,140,Low
+923,M,1,"T-mis-1681,T-mis- 1658,T-mis- 3350",3,4,84,Low
+924,M,1,"T-mis-2199,T-mis- 2764,T-mis- 1036,T-mis- 439",1,5,35,Medium
+925,C,3,"T-mis-3358,T-mis- 239,T-mis- 2832,T-mis- 2100",5,4,140,Low
+926,M,1,T-mis-925,3,1,21,Low
+927,S,2,"T-mis-1167,T-mis- 2912",5,2.5,87.5,Low
+928,W,3,"T-mis-590,T-mis- 2539,T-mis- 384",1,5,35,Low
+929,M,1,"T-mis-2954,T-mis- 2968,T-mis- 2943",1,2.5,17.5,Low
+930,S,2,T-mis-3175,3,1,21,Medium
+931,S,2,"T-mis-1421,T-mis- 689,T-mis- 3301,T-mis- 3169",5,2.5,87.5,Low
+932,S,2,"T-mis-1392,T-mis- 2281",3,2,42,Low
+933,M,1,"T-mis-3134,T-mis- 265,T-mis- 2290",5,4,140,Low
+934,C,3,"T-mis-2026,T-mis- 469,T-mis- 1707,T-mis- 2168",3,2.5,52.5,Low
+935,C,3,"T-mis-1158,T-mis- 1199",5,2.5,87.5,Low
+936,C,3,T-mis-1054,5,1,35,Medium
+937,S,2,"T-mis-1861,T-mis- 230,T-mis- 642,T-mis- 1921",1,2.5,17.5,Low
+938,M,1,"T-mis-2097,T-mis- 988",5,2.5,87.5,Medium
+939,M,1,"T-mis-122,T-mis- 188,T-mis- 1446,T-mis- 2863",1,2.5,17.5,Low
+940,C,3,"T-mis-1752,T-mis- 2790",1,2,14,Low
+941,M,1,"T-mis-3267,T-mis- 1859",5,2,70,Low
+942,W,3,"T-mis-740,T-mis- 1392,T-mis- 3058",1,4,28,Medium
+943,M,1,T-mis-816,3,1,21,Low
+944,W,3,"T-mis-1408,T-mis- 1573,T-mis- 2004,T-mis- 1015",5,5,175,Medium
+945,M,1,T-mis-3345,1,1.5,10.5,Low
+946,S,2,"T-mis-885,T-mis- 2197,T-mis- 2071,T-mis- 2931",3,5,105,Low
+947,W,3,T-mis-1424,1,1.5,10.5,Low
+948,S,2,"T-mis-2127,T-mis- 320,T-mis- 1236",3,5,105,Medium
+949,W,3,"T-mis-1310,T-mis- 802",1,2,14,Low
+950,C,3,T-mis-1627,5,1,35,Low
+951,M,1,"T-mis-545,T-mis- 88,T-mis- 1951",5,4,140,Low
+952,C,3,"T-mis-3115,T-mis- 109",1,2,14,Low
+953,M,1,T-mis-1971,3,1.5,31.5,Low
+954,M,1,T-mis-1786,1,1.5,10.5,Medium
+955,M,1,"T-mis-191,T-mis- 3306,T-mis- 3016",3,4,84,Low
+956,M,1,"T-mis-1426,T-mis- 79,T-mis- 1296,T-mis- 970",1,2.5,17.5,Medium
+957,M,1,T-mis-402,5,2,70,Low
+958,S,2,T-mis-1190,5,2,70,Low
+959,M,1,"T-mis-670,T-mis- 2442,T-mis- 2666",1,5,35,Low
+960,S,2,T-mis-1583,5,1,35,Low
+961,C,3,T-mis-1970,1,1,7,Low
+962,C,3,"T-mis-854,T-mis- 2225,T-mis- 1169",1,5,35,Medium
+963,M,1,"T-mis-600,T-mis- 711,T-mis- 657,T-mis- 1718",5,4,140,Low
+964,S,2,"T-mis-1585,T-mis-3274,T-mis- 2216,T-mis- 2607,T-mis- 2103",3,6,126,Low
+965,M,1,"T-mis-74,T-mis- 553",5,1.5,52.5,Low
+966,C,3,"T-mis-1737,T-mis- 1613",1,4,28,Low
+967,M,1,"T-mis-1251,T-mis- 2512,T-mis- 2570",5,4,140,Low
+968,M,1,"T-mis-1150,T-mis- 1128,T-mis- 2529",5,2.5,87.5,Medium
+969,S,2,"T-mis-3388,T-mis- 982,T-mis- 2379",1,2.5,17.5,Low
+970,M,1,T-mis-1323,3,1,21,Low
+971,C,3,T-mis-1960,3,1,21,Low
+972,M,1,"T-mis-2677,T-mis- 1745,T-mis- 2853",3,2.5,52.5,Medium
+973,M,1,T-mis-170,1,1,7,Low
+974,M,1,"T-mis-1264,T-mis- 1500,T-mis- 948",5,5,175,Low
+975,M,1,"T-mis-213,T-mis- 1106,T-mis- 2543",3,2.5,52.5,Low
+976,S,2,"T-mis-3148,T-mis- 3279",1,5,35,Low
+977,M,1,"T-mis-1608,T-mis- 870",1,2,14,Low
+978,W,3,"T-mis-457,T-mis- 1524",5,2.5,87.5,Medium
+979,W,3,"T-mis-308,T-mis- 657",5,4,140,Low
+980,S,2,T-mis-167,3,2,42,Medium
+981,C,3,T-mis-2986,5,2,70,Low
+982,S,2,"T-mis-152,T-mis- 338,T-mis- 1781",1,5,35,Low
+983,S,2,"T-mis-477,T-mis- 1391,T-mis- 1836",1,4,28,Low
+984,S,2,"T-mis-2728,T-mis- 1000,T-mis- 1340",5,4,140,Medium
+985,S,2,"T-mis-3367,T-mis- 2934,T-mis- 182",5,5,175,Low
+986,C,3,T-mis-882,1,1,7,Low
+987,S,2,"T-mis-1625,T-mis- 1228,T-mis- 3251,T-mis- 3007",3,5,105,Low
+988,C,3,"T-mis-2367,T-mis- 1981,T-mis- 1212",3,4,84,Low
+989,S,2,"T-mis-177,T-mis- 1974,T-mis- 2448,T-mis- 3222",1,5,35,Low
+990,S,2,"T-mis-537,T-mis- 594",5,2,70,High
+991,M,1,"T-mis-2815,T-mis- 1340,T-mis- 1625",5,2.5,87.5,Low
+992,C,3,"T-mis-256,T-mis- 2162,T-mis- 72",1,4,28,Medium
+993,S,2,"T-mis-1583,T-mis- 1834,T-mis- 1512",5,2.5,87.5,Low
+994,W,3,"T-mis-224,T-mis-1848,T-mis- 3143,T-mis- 1091,T-mis- 895",3,6.5,136.5,Low
+995,S,2,T-mis-756,5,2,70,Low
+996,S,2,"T-mis-1503,T-mis- 1620,T-mis- 2514,T-mis- 1508",5,4,140,Low
+997,W,3,T-mis-2599,5,1.5,52.5,Low
+998,S,2,"T-mis-1202,T-mis- 2271,T-mis- 1470,T-mis- 167",5,4,140,Medium
+999,W,3,"T-mis-1542,T-mis- 2550,T-mis- 459",5,4,140,Low
+1000,M,1,"T-mis-822,T-mis- 1381",3,2.5,52.5,Low
+1001,W,3,"T-mis-1528,T-mis- 1593",5,2,70,Low
+1002,S,2,T-mis-1495,1,2,14,Low
+1003,W,3,"T-mis-2779,T-mis- 3232,T-mis- 3337",5,4,140,Low
+1004,S,2,"T-mis-540,T-mis- 1615",3,2,42,Medium
+1005,W,3,T-mis-3279,1,1,7,Low
+1006,S,2,"T-mis-1879,T-mis- 2060",5,4,140,Low
+1007,W,3,"T-mis-3363,T-mis- 3093,T-mis- 2631,T-mis- 907",1,2.5,17.5,Low
+1008,S,2,"T-mis-1988,T-mis- 1896",5,2,70,Medium
+1009,M,1,"T-mis-1945,T-mis- 2083,T-mis- 576,T-mis- 1305",3,4,84,Low
+1010,S,2,T-mis-1241,3,1,21,Medium
+1011,S,2,"T-mis-123,T-mis- 3171",3,4,84,Low
+1012,M,1,"T-mis-1545,T-mis- 1928,T-mis- 2596",1,4,28,Low
+1013,W,3,"T-mis-2683,T-mis- 2702,T-mis- 1823,T-mis- 2506",5,2.5,87.5,Low
+1014,M,1,T-mis-2711,5,1.5,52.5,Medium
+1015,S,2,T-mis-628,3,4,84,Low
+1016,S,2,"T-mis-583,T-mis- 2270",3,2.5,52.5,Low
+1017,M,1,T-mis-1706,3,1,21,Low
+1018,S,2,"T-mis-1809,T-mis- 507",3,2.5,52.5,Low
+1019,S,2,T-mis-3189,5,1,35,Low
+1020,S,2,"T-mis-3214,T-mis- 3269",3,2,42,Medium
+1021,S,2,"T-mis-2694,T-mis- 849",3,1.5,31.5,Low
+1022,S,2,"T-mis-1291,T-mis- 2035,T-mis- 67",1,5,35,Medium
+1023,M,1,"T-mis-746,T-mis- 1317",5,2,70,Low
+1024,S,2,"T-mis-455,T-mis-3347,T-mis- 516,T-mis- 702",5,5,175,Low
+1025,M,1,T-mis-3372,1,1,7,Low
+1026,S,2,"T-mis-437,T-mis- 2376,T-mis- 3091",5,5,175,Low
+1027,W,3,T-mis-812,1,1,7,Low
+1028,W,3,T-mis-1248,3,1,21,High
+1029,W,3,"T-mis-2351,T-mis- 2612,T-mis- 222,T-mis- 3296",5,5,175,Low
+1030,S,2,"T-mis-2903,T-mis- 375,T-mis- 2710",3,5,105,Low
+1031,S,2,"T-mis-1415,T-mis- 500",5,2,70,Low
+1032,S,2,"T-mis-3107,T-mis- 1214,T-mis- 1709,T-mis- 226",5,2.5,87.5,Medium
+1033,M,1,"T-mis-3324,T-mis- 2548,T-mis- 422",5,4,140,Low
+1034,S,2,"T-mis-2612,T-mis- 501",1,2.5,17.5,Medium
+1035,S,2,T-mis-2432,3,1,21,Low
+1036,M,1,"T-mis-1120,T-mis- 1827,T-mis- 1891",1,4,28,Low
+1037,M,1,"T-mis-2841,T-mis- 766",1,4,28,Low
+1038,M,1,"T-mis-946,T-mis- 1490,T-mis- 3388,T-mis- 1120",1,5,35,Medium
+1039,S,2,"T-mis-2522,T-mis- 2396,T-mis- 1915",5,3,105,Low
+1040,S,2,"T-mis-566,T-mis- 1675,T-mis- 555",1,4,28,Medium
+1041,M,1,"T-mis-2246,T-mis- 2091,T-mis- 200",3,2.5,52.5,Low
+1042,S,2,T-mis-1209,1,1,7,Low
+1043,M,1,T-mis-1529,5,1,35,Low
+1044,S,2,"T-mis-874,T-mis- 2893",1,4,28,Low
+1045,W,3,T-mis-1460,5,1,35,Low
+1046,M,1,"T-mis-3365,T-mis- 3235",5,4,140,Low
+1047,M,1,"T-mis-2505,T-mis- 1867,T-mis- 124,T-mis- 2563",1,5,35,Low
+1048,W,3,"T-mis-1525,T-mis- 3050,T-mis- 404",3,4,84,Low
+1049,C,3,T-mis-2650,1,1,7,Low
+1050,W,3,"T-mis-849,T-mis- 3257,T-mis- 866,T-mis- 177",5,2.5,87.5,Low
+1051,S,2,"T-mis-2005,T-mis- 1308,T-mis- 727",5,2.5,87.5,Low
+1052,M,1,T-mis-1332,3,1,21,Medium
+1053,S,2,T-mis-2808,1,1,7,Low
+1054,W,3,"T-mis-1444,T-mis- 1420",3,2.5,52.5,Low
+1055,M,1,"T-mis-2396,T-mis- 1244",1,4,28,Low
+1056,W,3,"T-mis-37,T-mis- 538",1,4,28,Medium
+1057,S,2,T-mis-286,1,1,7,Low
+1058,S,2,"T-mis-737,T-mis- 1882",3,2.5,52.5,Low
+1059,W,3,T-mis-1124,5,1.5,52.5,Low
+1060,M,1,"T-mis-1820,T-mis- 2217,T-mis- 1382",3,4,84,Low
+1061,M,1,T-mis-3000,5,1,35,Low
+1062,M,1,"T-mis-411,T-mis- 3287,T-mis- 2536,T-mis- 682",5,2.5,87.5,Medium
+1063,S,2,"T-mis-2669,T-mis- 3147",1,2.5,17.5,Low
+1064,S,2,"T-mis-2513,T-mis- 806",5,4,140,Medium
+1065,W,3,"T-mis-184,T-mis- 2149,T-mis- 2916,T-mis- 3065",1,2.5,17.5,Low
+1066,W,3,"T-mis-1515,T-mis- 3024,T-mis- 995",3,4,84,Low
+1067,S,2,"T-mis-191,T-mis- 3198,T-mis- 2519,T-mis- 1615",3,4,84,Low
+1068,S,2,"T-mis-286,T-mis- 2225",5,2,70,Medium
+1069,M,1,"T-mis-539,T-mis- 3339,T-mis- 1550,T-mis- 177",1,5,35,Low
+1070,W,3,T-mis-1765,3,1,21,Medium
+1071,S,2,"T-mis-1094,T-mis- 3035,T-mis- 2389",3,4,84,Low
+1072,C,3,"T-mis-1198,T-mis- 356",3,2.5,52.5,Low
+1073,S,2,"T-mis-1952,T-mis- 442",1,2.5,17.5,Low
+1074,S,2,"T-mis-308,T-mis- 1735,T-mis- 2373",5,4,140,Medium
+1075,C,3,T-mis-559,5,2,70,Low
+1076,S,2,"T-mis-1458,T-mis- 3101,T-mis- 425,T-mis- 2587",3,4,84,Medium
+1077,S,2,T-mis-790,5,1,35,Low
+1078,W,3,T-mis-2872,1,1,7,Low
+1079,M,1,"T-mis-759,T-mis- 584",3,1.5,31.5,Low
+1080,M,1,"T-mis-1902,T-mis- 502",3,2,42,Medium
+1081,W,3,T-mis-3201,1,1.5,10.5,Low
+1082,S,2,"T-mis-2678,T-mis- 572,T-mis- 2600,T-mis- 982",3,4,84,Medium
+1083,M,1,"T-mis-2221,T-mis- 2844,T-mis- 1028,T-mis- 2736",5,4,140,Low
+1084,C,3,"T-mis-85,T-mis- 2442",3,2,42,Low
+1085,M,1,"T-mis-719,T-mis- 555,T-mis- 2265,T-mis- 1340",5,4,140,Low
+1086,W,3,"T-mis-16,T-mis- 187",5,5,175,Low
+1087,M,1,T-mis-2628,1,2,14,Low
+1088,M,1,T-mis-796,5,2.5,87.5,High
+1089,M,1,"T-mis-500,T-mis- 2048,T-mis- 3400",1,2.5,17.5,Low
+1090,M,1,T-mis-3354,3,2,42,Low
+1091,M,1,T-mis-1923,3,2,42,Low
+1092,M,1,"T-mis-943,T-mis- 1348,T-mis- 2211,T-mis- 2857",3,4,84,High
+1093,S,2,T-mis-449,3,2,42,Low
+1094,W,3,T-mis-1034,3,2,42,Low
+1095,S,2,"T-mis-1859,T-mis- 870,T-mis- 803",1,5,35,Low
+1096,M,1,"T-mis-2262,T-mis- 432,T-mis- 761",5,2.5,87.5,Low
+1097,W,3,"T-mis-2316,T-mis- 3164,T-mis- 1388",1,2.5,17.5,Low
+1098,S,2,"T-mis-320,T-mis- 672",1,2,14,Medium
+1099,M,1,"T-mis-1036,T-mis- 1272,T-mis- 1249,T-mis- 1740",5,4,140,Low
+1100,S,2,T-mis-997,3,1,21,Low
+1101,M,1,"T-mis-1615,T-mis- 1455,T-mis- 364,T-mis- 2534",5,2.5,87.5,Low
+1102,S,2,"T-mis-1714,T-mis- 582,T-mis- 3189,T-mis- 455",1,4,28,Low
+1103,C,3,T-mis-1081,5,1.5,52.5,Low
+1104,C,3,"T-mis-2703,T-mis- 1741",1,4,28,Medium
+1105,S,2,T-mis-545,1,1,7,Low
+1106,M,1,"T-mis-3197,T-mis- 2711,T-mis- 337,T-mis- 1817",3,2.5,52.5,Low
+1107,S,2,"T-mis-1837,T-mis-145,T-mis- 1842",3,4,84,Low
+1108,C,3,"T-mis-1621,T-mis- 704",1,4,28,Low
+1109,C,3,"T-mis-3357,T-mis- 1548",3,3,63,Low
+1110,S,2,"T-mis-1214,T-mis- 1036",5,2.5,87.5,Low
+1111,M,1,"T-mis-2540,T-mis- 1377",5,2.5,87.5,Low
+1112,M,1,"T-mis-539,T-mis- 2887",1,2.5,17.5,Medium
+1113,M,1,"T-mis-1751,T-mis- 2762",5,2.5,87.5,Low
+1114,S,2,"T-mis-1752,T-mis- 1110",3,5,105,Low
+1115,S,2,"T-mis-2519,T-mis- 1691",1,4,28,Low
+1116,C,3,"T-mis-592,T-mis- 958,T-mis- 520",3,5,105,Medium
+1117,C,3,"T-mis-3360,T-mis- 3035,T-mis- 1057,T-mis- 1565",1,4,28,Low
+1118,C,3,"T-mis-2161,T-mis- 216,T-mis- 2848,T-mis- 810",5,4,140,Medium
+1119,S,2,"T-mis-2741,T-mis- 2820,T-mis- 677",1,2.5,17.5,Low
+1120,C,3,T-mis-3328,3,1,21,Low
+1121,M,1,"T-mis-2158,T-mis- 3152,T-mis- 1442,T-mis- 2932",5,5,175,Low
+1122,C,3,T-mis-2254,1,1,7,High
+1123,S,2,"T-mis-509,T-mis- 1145",1,4,28,Low
+1124,C,3,T-mis-205,5,1,35,Medium
+1125,M,1,"T-mis-2958,T-mis- 1292,T-mis- 985",5,4,140,Low
+1126,C,3,"T-mis-3210,T-mis- 3318,T-mis- 1769",5,4,140,Low
+1127,C,3,T-mis-934,3,1,21,Low
+1128,S,2,"T-mis-1588,T-mis- 969",3,2.5,52.5,Low
+1129,C,3,"T-mis-412,T-mis- 428,T-mis- 396,T-mis- 1539",3,4,84,Low
+1130,M,1,"T-mis-1477,T-mis- 2572,T-mis- 928",1,4,28,Medium
+1131,C,3,"T-mis-590,T-mis- 2986,T-mis- 371,T-mis- 1699",3,4,84,Low
+1132,M,1,"T-mis-390,T-mis- 2534",5,4,140,Low
+1133,S,2,T-mis-227,1,1.5,10.5,Low
+1134,C,3,"T-mis-1822,T-mis- 1650,T-mis- 2932",5,2.5,87.5,Medium
+1135,S,2,"T-mis-2121,T-mis- 41,T-mis- 1518,T-mis- 1470",5,4,140,Low
+1136,M,1,"T-mis-61,T-mis- 2681",5,5,175,Medium
+1137,M,1,T-mis-2217,3,2,42,Low
+1138,C,3,"T-mis-2438,T-mis- 3350",5,5,175,Low
+1139,C,3,"T-mis-3045,T-mis- 2196,T-mis- 2023,T-mis- 2290",5,2.5,87.5,Low
+1140,M,1,T-mis-351,5,1.5,52.5,Medium
+1141,S,2,"T-mis-2994,T-mis- 607",3,4,84,Low
+1142,M,1,T-mis-245,3,1,21,Low
+1143,S,2,"T-mis-3085,T-mis- 1652,T-mis- 1757,T-mis- 315",3,5,105,Low
+1144,S,2,"T-mis-680,T-mis- 2540",1,5,35,Low
+1145,M,1,"T-mis-2931,T-mis- 3137,T-mis- 1821",5,5,175,Low
+1146,S,2,"T-mis-135,T-mis- 495,T-mis- 776,T-mis- 694",1,2.5,17.5,Low
+1147,M,1,T-mis-2987,3,1,21,Low
+1148,M,1,"T-mis-734,T-mis- 94,T-mis- 3222,T-mis- 629",1,5,35,Medium
+1149,M,1,"T-mis-2997,T-mis- 2392,T-mis- 1440",3,2.5,52.5,Low
+1150,W,3,"T-mis-2362,T-mis- 2239,T-mis- 68",1,4,28,Low
+1151,M,1,T-mis-1185,1,3,21,Low
+1152,M,1,"T-mis-2788,T-mis- 433,T-mis- 1629",5,4,140,Medium
+1153,M,1,"T-mis-2415,T-mis- 773,T-mis- 258",1,3,21,Low
+1154,W,3,"T-mis-1542,T-mis- 17",5,2,70,Medium
+1155,S,2,"T-mis-376,T-mis- 58",1,2,14,Low
+1156,W,3,T-mis-2363,5,1.5,52.5,Low
+1157,W,3,"T-mis-2915,T-mis- 3002",1,2.5,17.5,Low
+1158,S,2,T-mis-957,1,1,7,Medium
+1159,M,1,"T-mis-2688,T-mis- 3219,T-mis- 1855",5,5,175,Low
+1160,S,2,"T-mis-182,T-mis- 435,T-mis- 35",1,5,35,Medium
+1161,S,2,"T-mis-1497,T-mis- 881,T-mis- 933,T-mis- 1194",1,4,28,Low
+1162,W,3,"T-mis-2332,T-mis- 2847,T-mis- 3348,T-mis- 2174",1,4,28,Low
+1163,W,3,T-mis-376,5,2.5,87.5,Low
+1164,W,3,"T-mis-2904,T-mis- 443,T-mis- 1304",5,4,140,Medium
+1165,M,1,"T-mis-501,T-mis- 799,T-mis- 2641",1,4,28,Low
+1166,W,3,"T-mis-3321,T-mis- 2104,T-mis- 1233",5,4,140,Low
+1167,M,1,"T-mis-533,T-mis- 3009,T-mis- 760",1,4,28,Low
+1168,S,2,"T-mis-2783,T-mis- 2098,T-mis- 2716,T-mis- 1527",1,4,28,Low
+1169,W,3,T-mis-3098,3,2.5,52.5,Low
+1170,S,2,T-mis-2976,3,2.5,52.5,Low
+1171,S,2,T-mis-2778,5,4,140,Low
+1172,W,3,"T-mis-2193,T-mis- 3212,T-mis- 2847,T-mis- 465",5,4,140,Medium
+1173,M,1,T-mis-1422,3,1,21,Low
+1174,W,3,"T-mis-2578,T-mis- 18,T-mis- 2591",5,2.5,87.5,Low
+1175,W,3,"T-mis-393,T-mis- 1355",5,2,70,Low
+1176,W,3,"T-mis-2276,T-mis- 177",3,4,84,High
+1177,W,3,T-mis-1072,5,2,70,Low
+1178,M,1,T-mis-489,5,2,70,Medium
+1179,W,3,"T-mis-156,T-mis- 2011,T-mis- 1100",3,5,105,Low
+1180,S,2,"T-mis-2960,T-mis- 282,T-mis- 2559",3,2.5,52.5,Low
+1181,M,1,"T-mis-2970,T-mis- 431,T-mis- 129",1,2.5,17.5,Low
+1182,S,2,"T-mis-528,T-mis- 1230",1,2,14,Medium
+1183,M,1,"T-mis-3205,T-mis- 1602,T-mis- 1835,T-mis- 2513",5,5,175,Low
+1184,S,2,"T-mis-2766,T-mis- 1395,T-mis- 515",5,4,140,Low
+1185,W,3,T-mis-1434,3,1,21,Low
+1186,W,3,"T-mis-2260,T-mis- 2608",1,4,28,Low
+1187,M,1,"T-mis-3066,T-mis- 1760,T-mis- 3021",1,4,28,Low
+1188,M,1,T-mis-368,3,1,21,Medium
+1189,M,1,T-mis-361,1,1,7,Low
+1190,W,3,"T-mis-2287,T-mis- 2990",1,2.5,17.5,Medium
+1191,M,1,"T-mis-943,T-mis- 299,T-mis- 3350,T-mis- 2991",3,2.5,52.5,Low
+1192,M,1,"T-mis-3276,T-mis- 3025,T-mis- 1053,T-mis- 2167",3,4,84,Low
+1193,M,1,"T-mis-3312,T-mis- 1691",1,2.5,17.5,Low
+1194,S,2,"T-mis-778,T-mis- 807,T-mis- 3218,T-mis- 2950",3,4,84,Medium
+1195,S,2,"T-mis-2125,T-mis- 959",5,2,70,Low
+1196,C,3,"T-mis-2841,T-mis- 40,T-mis- 3199",3,4,84,Medium
+1197,M,1,"T-mis-1143,T-mis- 2679,T-mis- 2413,T-mis- 2531",5,5,175,Low
+1198,C,3,"T-mis-3365,T-mis- 2595",5,2.5,87.5,Low
+1199,C,3,"T-mis-759,T-mis- 755,T-mis- 3350",3,4,84,Low
+1200,C,3,"T-mis-3232,T-mis- 2508,T-mis- 2268,T-mis- 1945",5,2.5,87.5,Medium
+1201,S,2,T-mis-961,3,1,21,Low
+1202,S,2,T-mis-2106,5,1.5,52.5,Medium
+1203,C,3,"T-mis-1052,T-mis- 1251,T-mis- 119,T-mis- 1050",3,4,84,Low
+1204,S,2,T-mis-656,5,1.5,52.5,Low
+1205,S,2,"T-mis-713,T-mis- 912",1,4,28,Low
+1206,C,3,"T-mis-1123,T-mis- 33,T-mis- 1655,T-mis- 1815",3,5,105,Low
+1207,M,1,T-mis-1069,1,1,7,Low
+1208,C,3,"T-mis-1491,T-mis- 3228",3,4,84,Medium
+1209,S,2,T-mis-2408,5,4,140,Low
+1210,M,1,"T-mis-1852,T-mis- 971",1,2.5,17.5,Low
+1211,M,1,"T-mis-2981,T-mis- 216",3,4,84,Low
+1212,M,1,"T-mis-207,T-mis- 1018,T-mis- 2256",3,4,84,Low
+1213,M,1,"T-mis-813,T-mis- 1810,T-mis- 2077,T-mis- 2390",5,2.5,87.5,Low
+1214,C,3,"T-mis-2013,T-mis- 2285",3,2,42,Medium
+1215,M,1,"T-mis-777,T-mis- 2280,T-mis- 2912,T-mis- 1993",5,4,140,Low
+1216,C,3,"T-mis-1883,T-mis- 1602,T-mis- 1469",1,5,35,Low
+1217,S,2,"T-mis-1564,T-mis- 3177,T-mis- 1650,T-mis- 1983",1,5,35,Low
+1218,M,1,"T-mis-1027,T-mis- 3008,T-mis- 1185,T-mis- 2211",5,2.5,87.5,Medium
+1219,M,1,"T-mis-1049,T-mis- 1088,T-mis- 888",5,4,140,Low
+1220,C,3,"T-mis-884,T-mis- 1893",5,2,70,Medium
+1221,M,1,"T-mis-1625,T-mis- 1921,T-mis- 1253",1,2.5,17.5,Low
+1222,M,1,T-mis-84,3,2,42,Low
+1223,M,1,"T-mis-2375,T-mis- 1511,T-mis- 766",1,4,28,Low
+1224,C,3,"T-mis-582,T-mis- 2511,T-mis- 3149",5,2.5,87.5,Medium
+1225,M,1,T-mis-3037,3,1,21,Low
+1226,C,3,T-mis-629,1,1,7,Low
+1227,S,2,"T-mis-1659,T-mis- 3108",1,2,14,Low
+1228,M,1,"T-mis-1162,T-mis- 2562,T-mis- 2183",1,3,21,Low
+1229,C,3,"T-mis-2351,T-mis- 2246",3,2.5,52.5,Low
+1230,S,2,T-mis-1857,1,2,14,Medium
+1231,M,1,"T-mis-1740,T-mis- 2082,T-mis- 1871",1,2.5,17.5,Low
+1232,C,3,"T-mis-1663,T-mis- 436,T-mis- 1521",3,4,84,High
+1233,S,2,"T-mis-366,T-mis- 75,T-mis- 3075",5,2.5,87.5,Low
+1234,S,2,"T-mis-363,T-mis- 2224",5,2,70,Low
+1235,S,2,"T-mis-2033,T-mis- 2954,T-mis- 1277,T-mis- 831",1,5,35,Low
+1236,C,3,T-mis-2943,5,1,35,Medium
+1237,M,1,T-mis-591,1,1,7,Low
+1238,M,1,"T-mis-758,T-mis- 565,T-mis- 2368",3,2.5,52.5,Medium
+1239,M,1,"T-mis-360,T-mis- 287",3,2,42,Low
+1240,C,3,"T-mis-797,T-mis- 1905,T-mis- 1074,T-mis- 558",5,4,140,Low
+1241,C,3,"T-mis-2101,T-mis- 2666",3,2.5,52.5,Low
+1242,S,2,"T-mis-2065,T-mis- 2401,T-mis- 309,T-mis- 571",5,5,175,Medium
+1243,C,3,"T-mis-3062,T-mis- 968",1,2,14,Low
+1244,S,2,"T-mis-1541,T-mis- 2868,T-mis- 2011,T-mis- 2274",5,3.5,122.5,Medium
+1245,S,2,T-mis-270,3,1,21,Low
+1246,W,3,"T-mis-1032,T-mis- 1757,T-mis- 512,T-mis- 1702",3,4,84,Low
+1247,W,3,"T-mis-1800,T-mis- 375,T-mis- 238",5,4,140,Low
+1248,W,3,T-mis-1212,1,1.5,10.5,Medium
+1249,M,1,"T-mis-1281,T-mis- 1756,T-mis- 314",5,4,140,Low
+1250,M,1,T-mis-132,5,1,35,Medium
+1251,W,3,T-mis-3315,5,1,35,Low
+1252,M,1,"T-mis-723,T-mis- 685,T-mis- 1758",5,5,175,Low
+1253,M,1,T-mis-2261,1,1.5,10.5,Low
+1254,M,1,"T-mis-2566,T-mis- 1690,T-mis- 2210,T-mis- 2089",5,3.5,122.5,Low
+1255,W,3,T-mis-1664,3,1,21,Low
+1256,M,1,T-mis-1649,1,1,7,Medium
+1257,W,3,"T-mis-101,T-mis- 2931,T-mis- 3234,T-mis- 1948",1,4.5,31.5,Low
+1258,S,2,T-mis-2157,1,1.5,10.5,Low
+1259,S,2,T-mis-2186,5,5,175,Low
+1260,W,3,"T-mis-180,T-mis- 1969,T-mis- 2480",3,2.5,52.5,Medium
+1261,S,2,"T-mis-2261,T-mis- 2",1,2,14,Low
+1262,S,2,"T-mis-953,T-mis- 1265",1,2,14,Medium
+1263,S,2,"T-mis-417,T-mis- 1649",3,2,42,Low
+1264,W,3,"T-mis-3060,T-mis- 1058,T-mis- 1868",1,4,28,Low
+1265,W,3,"T-mis-2409,T-mis- 2203,T-mis- 2103,T-mis- 2986",5,4,140,Low
+1266,W,3,"T-mis-454,T-mis- 976,T-mis- 3076,T-mis- 1631",3,4,84,Low
+1267,S,2,"T-mis-2520,T-mis- 2265,T-mis- 2334",3,4,84,Low
+1268,W,3,T-mis-1297,3,1.5,31.5,Low
+1269,W,3,"T-mis-1507,T-mis- 2809",1,4,28,Low
+1270,S,2,"T-mis-2873,T-mis- 3056",5,3,105,Low
+1271,C,3,"T-mis-3154,T-mis- 1746,T-mis- 3027",1,5,35,Low
+1272,S,2,"T-mis-759,T-mis- 2249,T-mis- 2762,T-mis- 2188",1,4,28,High
+1273,S,2,"T-mis-2727,T-mis- 398",1,2,14,Low
+1274,W,3,"T-mis-3382,T-mis- 1565,T-mis- 1840,T-mis- 2741",1,4,28,Medium
+1275,S,2,"T-mis-1011,T-mis- 2995,T-mis- 2785",3,5,105,Low
+1276,M,1,T-mis-591,3,1.5,31.5,Low
+1277,S,2,T-mis-637,1,1,7,Low
+1278,M,1,"T-mis-2509,T-mis- 545,T-mis- 893,T-mis- 304",5,4,140,Medium
+1279,M,1,"T-mis-2938,T-mis- 2801",3,5,105,Low
+1280,M,1,"T-mis-2081,T-mis- 31,T-mis- 2844,T-mis- 3233",3,4,84,Medium
+1281,M,1,"T-mis-40,T-mis- 2318",1,2,14,Low
+1282,W,3,T-mis-2444,3,1.5,31.5,Low
+1283,W,3,"T-mis-2711,T-mis- 1107",3,2.5,52.5,Low
+1284,S,2,"T-mis-2827,T-mis- 2491,T-mis- 537",3,2.5,52.5,Medium
+1285,S,2,"T-mis-1653,T-mis- 818",3,2,42,Low
+1286,W,3,"T-mis-2798,T-mis- 333,T-mis- 379",3,3,63,Low
+1287,W,3,"T-mis-2157,T-mis- 283",1,2.5,17.5,Low
+1288,M,1,"T-mis-2491,T-mis- 2861,T-mis- 3395,T-mis- 380",1,5,35,Low
+1289,S,2,"T-mis-499,T-mis- 3378",1,2,14,Low
+1290,W,3,"T-mis-2569,T-mis- 314,T-mis- 358,T-mis- 1252",5,5,175,Medium
+1291,S,2,T-mis-26,5,1.5,52.5,Low
+1292,S,2,"T-mis-732,T-mis- 925",5,2,70,Low
+1293,M,1,"T-mis-3396,T-mis- 1721,T-mis- 470",3,3,63,Low
+1294,W,3,"T-mis-2136,T-mis- 2692,T-mis- 1841",1,4,28,Low
+1295,W,3,"T-mis-1219,T-mis- 1812,T-mis- 1387,T-mis- 114",1,5,35,Low
+1296,S,2,"T-mis-3012,T-mis- 1256,T-mis- 2878",5,4.5,157.5,Low
+1297,S,2,T-mis-2673,1,1,7,Low
+1298,M,1,"T-mis-874,T-mis- 1374,T-mis- 3045",5,4,140,Medium
+1299,M,1,T-mis-1177,1,1,7,Low
+1300,S,2,T-mis-3178,5,1,35,Low
+1301,W,3,T-mis-209,5,1,35,Low
+1302,M,1,T-mis-1895,1,1,7,Medium
+1303,S,2,"T-mis-240,T-mis- 3306,T-mis- 560,T-mis- 3123",3,4,84,Low
+1304,C,3,"T-mis-549,T-mis- 2118,T-mis- 1619,T-mis- 24",3,4,84,Medium
+1305,M,1,"T-mis-2239,T-mis- 613",1,2.5,17.5,Low
+1306,S,2,"T-mis-977,T-mis- 271",3,2,42,Low
+1307,S,2,"T-mis-2563,T-mis- 41,T-mis- 1302",3,4.5,94.5,Low
+1308,W,3,"T-mis-335,T-mis- 2722",5,3,105,Medium
+1309,S,2,"T-mis-986,T-mis- 2273,T-mis- 792",3,5,105,Low
+1310,S,2,"T-mis-261,T-mis- 934",1,3,21,Low
+1311,S,2,"T-mis-299,T-mis- 290,T-mis- 2090",3,4,84,Low
+1312,C,3,"T-mis-1289,T-mis- 652,T-mis- 1061",3,4,84,Low
+1313,M,1,"T-mis-1003,T-mis- 1407,T-mis- 922",1,5,35,Low
+1314,W,3,"T-mis-1321,T-mis- 1675,T-mis- 1095,T-mis- 2573",1,4.5,31.5,Medium
